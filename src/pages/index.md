@@ -3,25 +3,31 @@ title: '职场达人的入门AI实操课：带你探索前沿AI项目，提升�
 layout: '~/layouts/CourseLayout.astro'
 ---
 
-![](/course/00.png)
+<small>10 月 14 日修改</small>
 
-10 月 14 日修改
+<div class="bg-orange-50 p-8 mb-5 rounded-lg border-orange-200 border-2">
 
-> 入门AI实操课
-> 
-> 15个精心制作的项目实操教程，5场直播分享
-> 
-> 带你探索前沿AI项目，提升动手能力，通过为自己定制AI工具、bot的同时，加深对AI工作原理的理解
-> 
-> > 我们的职场达人AI系列课程
-> >
-> > [职场达人AI系列课程的作者&部分邀约直播嘉宾](https://www.google.com)
-> > [职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务](https://www.google.com)
+<h4 class="font-bold text-lg mt-0 mb-4">入门AI实操课</h4>
+
+15个精心制作的项目实操教程，5场直播分享
+
+带你探索前沿AI项目，提升动手能力，通过为自己定制AI工具、bot的同时，加深对AI工作原理的理解
+
+> 我们的职场达人AI系列课程
+>
+>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人AI系列课程的作者&部分邀约直播嘉宾</a>
+>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+
+</div>
 
 ### 职场达人AI系列课程的作者&部分邀约直播嘉宾
 
-![](/course/01.png)
-![](/course/02.png)
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+  <img src="/course/01.png" alt="Course image 1" class="w-full h-auto" />
+  <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
+</div>
 
 ### 主要解决什么
 - 助力职场人提升动手能力，更好探索使用前沿AI模型工具（教程：HOW-TO）
@@ -44,6 +50,9 @@ layout: '~/layouts/CourseLayout.astro'
 - 提升了动手能力，掌握典型AI工具安装方法。解决探索前沿AI工具，被安装环节卡住的问题，通过做项目掌握Github、huggingface上热门AI模型工具的安装方法，学会基于docker、python、Git、Github、Homebrew、ollama等方式安装使用AI模型工具。
 - 15个可以展现自己专业技能的项目作品集
 
+### 学习路径图
+刚接触AI的职场人，可能会感觉知识大爆炸，不知如何学起。这时候，最好就是找一条适合自己的学习路径，边实践边学习，逐步变得更懂AI。通过本课程助力你打通自己的AI学习路径，进阶对AI的理解和操作能力，入门AI工具、bot搭建操作。（本课程内容主要助力你第4级专业AI使用者）
+
 ![](/course/03.png)
 
 ### 3个学习服务
@@ -51,41 +60,54 @@ layout: '~/layouts/CourseLayout.astro'
 - **5场直播：**每场约1.5小时，助力大家更了解AI模型工具的工作原理（回放长期有效）
 - **1个微信群**
 
-### 学习路径图
-刚接触AI的职场人，可能会感觉知识大爆炸，不知如何学起。这时候，最好就是找一条适合自己的学习路径，边实践边学习，逐步变得更懂AI。通过本课程助力你打通自己的AI学习路径，进阶对AI的理解和操作能力，入门AI工具、bot搭建操作。（本课程内容主要助力你第4级专业AI使用者）
-
-![AI学习路径图](/course/04.png)
-*AI学习路径图*
-
-![AI学习路径图 - 第1级](/course/05.png)
-*AI学习路径图 - 第1级：AI工具使用者*
-
-![AI学习路径图 - 第2-3级](/course/06.png)
-*AI学习路径图 - 第2-3级：AI提示工程师、AI应用开发者*
-
-![AI学习路径图 - 第4-5级](/course/07.png)
-*AI学习路径图 - 第4-5级：专业AI使用者、AI研究者*
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 1rem;">
+  <div style="width: 23%; display: flex; flex-direction: column;">
+    <img src="/course/04.png" alt="AI学习路径图" style="width: 100%; flex-grow: 1; object-fit: cover; margin-top: 0; margin-bottom: 0;" />
+    <p style="text-align: center; font-size: 0.8rem; margin-top: 0.5rem;">教程截图</p>
+  </div>
+  <div style="width: 23%; display: flex; flex-direction: column;">
+    <img src="/course/05.png" alt="AI学习路径图 - 第1级" style="width: 100%; flex-grow: 1; object-fit: cover; margin-top: 0; margin-bottom: 0;" />
+    <p style="text-align: center; font-size: 0.8rem; margin-top: 0.5rem;">第一季学员4星5星好评</p>
+  </div>
+  <div style="width: 23%; display: flex; flex-direction: column;">
+    <img src="/course/06.png" alt="AI学习路径图 - 第2-3级" style="width: 100%; flex-grow: 1; object-fit: cover; margin-top: 0; margin-bottom: 0;" />
+    <p style="text-align: center; font-size: 0.8rem; margin-top: 0.5rem;">答疑微信群</p>
+  </div>
+  <div style="width: 23%; display: flex; flex-direction: column;">
+    <img src="/course/07.png" alt="AI学习路径图 - 第4-5级" style="width: 100%; flex-grow: 1; object-fit: cover; margin-top: 0; margin-bottom: 0;" />
+    <p style="text-align: center; font-size: 0.8rem; margin-top: 0.5rem;">直播</p>
+  </div>
+</div>
 
 ### 购买
 
-> **单独购买：限时优惠6.3折 268元/人**
-> > ~原价428元 （第1季129元+第2季299元）~
-> - 报名立刻获得 「职场达人入门AI实操课」全部学习服务 
-> - 微信红包转账 268元/人   
+<div class="bg-orange-50 p-8 mb-5 rounded-lg border-orange-200 border-2">
 
-> **组合购买： 限时组合福利 289元/人（推荐）**
-> > ~536元=268元+268元~
-> - 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
-> - 微信红包转账 289元/人
+**单独购买：限时优惠6.3折 268元/人**
+> ~原价428元 （第1季129元+第2季299元）~
+- 报名立刻获得 「职场达人入门AI实操课」全部学习服务 
+- 微信红包转账 268元/人   
 
-> **职场达人入门系列课程：**
-> [职场达人的AI实操课：一起做15个AI项目，变得更懂使用AI](https://www.google.com)
-> [入门Dify实操课：助你系统上手Dify完成各类典型任务](https://www.google.com)
+**组合购买： 限时组合福利 289元/人（推荐）**
+> ~536元=268元+268元~
+- 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
+- 微信红包转账 289元/人
+
+**职场达人入门系列课程：**
+
+<a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人的AI实操课：一起做15个AI项目，变得更懂使用AI</a>
+
+<a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+
 > 两门课共计289元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
 
+</div>
+
 ### 报名咨询（扫码课程作者微信）
-![](/course/08.png)
-![](/course/09.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="/course/08.jpeg" style="width: 48%;" />
+  <img src="/course/09.png" style="width: 48%;" />
+</div>
 
 ## 课程15个搭建项目概览
 
@@ -138,8 +160,10 @@ layout: '~/layouts/CourseLayout.astro'
 > [【教程5试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案](https://www.google.com)   
 > [【教程试看】在电脑本地用Ollama应用运行llama3.1小模型](https://www.google.com) 
 
-![](/course/08.png)
-![](/course/09.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="/course/10.jpg" style="width: 48%;" />
+  <img src="/course/11.jpeg" style="width: 48%;" />
+</div>
 
 ---
 
@@ -295,3 +319,34 @@ layout: '~/layouts/CourseLayout.astro'
 > - 使用开源项目在电脑本地搭建，实现将dify制作的agent接入个人微信
 > - 通过dify编写agent让微信个人号具备所需的AI能力
 > ![](/course/26.png)
+
+<div class="bg-orange-50 p-8 mb-5 rounded-lg border-orange-200 border-2">
+👍 让我们一起上手实践，通过练习自建AI服务，提升动手能力，成为AI-NATIVE时代，更懂AI的产品人
+</div>
+### 报名咨询
+扫码添加课程作者微信
+
+**@Ning**
+
+产品经理
+
+先后在CSDN、极客邦等技术社区从事产品工作
+
+目前探索基于AI的产品设计
+
+**@Link**
+
+全栈工程师
+
+先后在美团和美国web3公司担任核心开发工程师
+
+目前探索基于AI的产品研发
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/course/08.jpeg" style="width: 48%;" />
+  <img src="/course/09.png" style="width: 48%;" />
+</div>
+
+> 我们的职场达人AI系列课程，欢迎了解
+> [职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务](https://www.google.com)
+> [职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解](https://www.google.com)
