@@ -375,6 +375,6 @@ pageTitle: 'AI实操课入门'
 > 
 > <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="/" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 <div class="my-64" />
