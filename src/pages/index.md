@@ -1,6 +1,7 @@
 ---
 title: '职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解'
 layout: '~/layouts/CourseLayout.astro'
+pageTitle: 'AI实操课入门'
 ---
 
 <small>10 月 14 日修改</small>
