@@ -29,6 +29,28 @@ export default {
           '100%': { opacity: 1, transform: 'translateY(0)' },
         },
       },
+      typography: {
+        DEFAULT: {
+          css: {
+            p: {
+              marginTop: '0.5rem',
+              marginBottom: '0.5rem',
+            },
+            blockquote: {
+              fontStyle: 'normal',
+            },
+            'blockquote p::before': {
+              content: 'none',
+            },
+            'p, li': {
+              letterSpacing: '0em !important',
+            },
+            'h3, h2, h4': {
+              letterSpacing: '0.05em !important',
+            },
+          },
+        },
+      },
     },
   },
   plugins: [
