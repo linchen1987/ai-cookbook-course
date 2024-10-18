@@ -8,7 +8,7 @@ pageTitle: 'AI实操课入门'
   <small>10 月 17 日修改</small>
 </div>
 
-<div class="bg-orange-50 py-4 px-8 mb-5 rounded-lg border-orange-200 border-2">
+<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 <p class="font-bold mt-2 mb-4">入门AI实操课</p>
 
@@ -92,14 +92,14 @@ pageTitle: 'AI实操课入门'
 
 ### 购买
 
-<div class="bg-orange-50 py-4 px-8 mb-5 rounded-lg border-orange-200 border-2">
+<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
 > ~原价428元 （第1季129元+第2季299元）~
 - 报名立刻获得 「职场达人入门AI实操课」全部学习服务 
 - 微信红包转账 268元/人   
 
-> <p><bold class="font-bold bg-orange-300 p-1 rounded">组合购买： 限时组合福利 289元/人（推荐）</bold></p>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 289元/人（推荐）</bold></p>
 > ~536元=268元+268元~
 - 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
 - 微信红包转账 289元/人
@@ -167,7 +167,7 @@ pageTitle: 'AI实操课入门'
 
 了解我们的教程，欢迎通过我们提供的试看内容，了解我们的学习内容。
 
-<div class="bg-orange-50 py-4 px-8 mb-5 rounded-lg border-orange-200 border-2">
+<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 <p>点击试看内容，了解我们的教程</p>
 
 > <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【教程5试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案</a>
@@ -341,7 +341,7 @@ pageTitle: 'AI实操课入门'
 > - 通过dify编写agent让微信个人号具备所需的AI能力
 > <img src="/course/26.png" alt="" class="w-1/2" />
 
-<div class="bg-orange-50 py-4 px-8 mb-5 rounded-lg border-orange-200 border-2">
+<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 👍 让我们一起上手实践，通过练习自建AI服务，提升动手能力，成为AI-NATIVE时代，更懂AI的产品人
 </div>
 

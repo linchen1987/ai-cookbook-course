@@ -2,6 +2,7 @@
 import Layout from '~/layouts/PageLayout.astro';
 
 import type { MetaData } from '~/types';
+// import Header from '~/components/widgets/Header.astro';
 
 export interface Props {
   frontmatter: {
@@ -22,6 +23,7 @@ const metadata: MetaData = {
 
 <Layout metadata={metadata}>
   <Fragment slot="header">
+    <!-- <Header showToggleTheme /> -->
   </Fragment>
   <div class="w-full">
     <slot name="banner">
