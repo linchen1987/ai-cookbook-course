@@ -1,6 +1,6 @@
 site:
-  name: AI 实操课入门
-  site: 'https://ai.uxone.org'
+  name: Dify 实操课入门
+  site: 'https://dify.uxone.org'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AI 实操课入门
-    template: '%s — AI实操课入门'
-  description: "\U0001F680 职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解"
+    default: Dify 实操课入门
+    template: '%s — Dify 实操课入门'
+  description: "\U0001F680 职场达人的入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AI 实操课入门
+    site_name: Dify 实操课入门
     images:
       - url: '~/assets/images/open-graph.png'
         width: 1200

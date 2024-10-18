@@ -1,380 +1,264 @@
 ---
-title: '职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解'
+title: '（课程介绍）职场达人的入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'AI实操课入门'
+pageTitle: 'Dify 实操课入门'
 ---
 
 <div class="mb-6">
-  <small>10 月 17 日修改</small>
+  <small>10 月 18 日修改</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">入门AI实操课</p>
+**职场达人的Dify实操课：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务**
+11+位讲师、14个实操教程、7+场直播
 
-15个精心制作的项目实操教程，5场直播分享
+**课程分3部分**
 
-带你探索前沿AI项目，提升动手能力，通过为自己定制AI工具、bot的同时，加深对AI工作原理的理解
+- **7个Dify功能使用教程（howto）**
 
-> 我们的职场达人AI系列课程
->
->
-> <a href="/" target="_blank" rel="noopener noreferrer">职场达人AI系列课程的作者&部分邀约直播嘉宾</a>
->
-> <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+  从Dify部署到，工作流搭建，预计Dify的RAG能力优化，点亮你的Dify技能树
+- **7个Dify动手实操项目（howto）**
+
+  从RAG知识库问答、文档校对，到网页、文档数据分析实践，以及个性文稿撰写，批量文档翻译...
+- **7+场视频直播（knowhow）**
+
+  结合工作场景的RAG落地、AI场景落地数据分析、内容生成等实践分享
+</div>
+
+<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
+
+**近期免费公开课预告**
+
+10月22日（周2）晚8点
+
+> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课第0期（免费直播公开课）</a>
+
+在个人电脑安装Dify社区版实操，并绑定模型和第三方服务 （以绑定Notion、SearXNG举例）
 
 </div>
 
-### 职场达人AI系列课程的作者&部分邀约直播嘉宾
+### Dify入门实操课部分直播嘉宾和教程作者
+
+4位 产品经理、3位架构师、2位研发工程师、2位咨询与研发效能教练带来他们的AI实操和AI转型经验
+
+> 排名不分先后，分发型
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-  <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
   <img src="/course/01.png" alt="Course image 1" class="w-full h-auto" />
+  <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
 </div>
 
-### 主要解决什么
-- 助力职场人提升动手能力，更好探索使用前沿AI模型工具（教程：HOW-TO）
-- 助力职场人了解AI模型工具的工作原理获得实操经验（直播：KNOW-HOW）
+### 主要解决什么问题
+- 助非研发岗的从业者，能上手Dify，围绕典型个人办公场景，制作简单工作流bot
+- 同时，能提升动手能力，掌握一门AI技能，成为善用AI处理各类典型办公场景问题的职场达人
 
-### 适合谁
-- 对AI感兴趣，想提升动手能力的产品、运营职场人
-- 想作一些知识、技能储备，提升AI使用能力的人
-- 从事数据分析等寻求专业技能转型提升的人
-- 想要将AI融入业务的中小企业主
-- 关注AI，从事教培的教师和科研人员
-- 想开拓视野，研究前沿模型工具的人
-- 喜欢折腾，想提升动手能力使用前沿AI工具的人
-- 想探索AI的人
+### 会学到什么
+> 我们精心制作了稍有挑战的课程内容，点亮你使用Dify做AI应用的技能树
+1. 一步步教你在个人电脑和自购服务器上安装部署Dify（HowTo）
+2. 系统学习Dify各项功能，从绑定模型，搭建工作流，到如何发挥Dify的RAG能力（HowTo）
+3. 典型场景、任务实操项目，带你学到使用Dify处理各类任务的技能：基于私有文档的知识库问答、个性化内容撰写、文档内容检查反馈、数据分析、网络信息抓取、白皮书等多页文档翻译...（HowTo）
+4. 听Dify使用者直播分享可借鉴的经验 （KnowHow）
 
-### 学习收获
-- 收获多个好用的AI工具，建立起对自己长期成长有帮助的AI工具箱
-- 助力你从通用AI工具使用者，入门成为AI应用的构造者，可以围绕自己的场景定制AI工具
-- 增加15个项目的操作经验，通过亲手搭建，提升对AI模型工具工作原理的理解
-- 提升了动手能力，掌握典型AI工具安装方法。解决探索前沿AI工具，被安装环节卡住的问题，通过做项目掌握Github、huggingface上热门AI模型工具的安装方法，学会基于docker、python、Git、Github、Homebrew、ollama等方式安装使用AI模型工具。
-- 15个可以展现自己专业技能的项目作品集
-
-### 学习路径图
-刚接触AI的职场人，可能会感觉知识大爆炸，不知如何学起。这时候，最好就是找一条适合自己的学习路径，边实践边学习，逐步变得更懂AI。通过本课程助力你打通自己的AI学习路径，进阶对AI的理解和操作能力，入门AI工具、bot搭建操作。（本课程内容主要助力你第4级专业AI使用者）
+### 非研发岗位职场达人的Dify技能树
 
 ![](/course/03.png)
 
-### 3个学习服务
-- **15个实操项目教程（长期有效）**
-- **5场直播：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回放长期有效）
-- **1个微信群**
+### 课程特色
+覆盖全面、注重获得、循序渐进、容易上手、作者专业
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 1rem;">
-  <div style="width: 16%; display: flex; flex-direction: column;">
-    <a href="/course/04.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/04.png" alt="教程截图" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">教程截图</p>
-  </div>
-  <div style="width: 16%; display: flex; flex-direction: column;">
-    <a href="/course/05.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/05.png" alt="第一季学员4星5星好评" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">第一季学员4星5星好评</p>
-  </div>
-  <div style="width: 16%; display: flex; flex-direction: column;">
-    <a href="/course/06.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/06.png" alt="答疑微信群" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">答疑微信群</p>
-  </div>
-  <div style="width: 44%; display: flex; flex-direction: column;">
-    <a href="/course/07.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/07.png" alt="直播" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">直播</p>
-  </div>
-</div>
+### 本课程适合谁
+- 想学如何用 Dify搭建AI智能体，处理办公场景任务的人
+- 想作AI技能储备，提升AI使用能力的人
+- 希望用Dify辅助处理私有文档数据、内容生成类任务的人
+- 数据分析师等寻求技能转型或提升的人
+- 想要将AI技术融入业务的中小企业主
+- 探索AI，从事教培的教师和科研人员
+- 想用Dify搭建项目demo与研发协作的人
 
-### 购买
+> 如果你已经有一定的Dify使用经验或研发经验，并且乐于分享，也欢迎加入我们，共创学习内容
+
+### 常见问题
+
+#### 为什么制作这门课？
+当前，AI大模型的热潮正在重塑各个行业。然而，各类模型服务令许多人感到眼花缭乱，甚至紧张焦虑担心自己落后淘汰。同时，AI的应用落地难也困扰着各行各业的从业者。为此，我们制作了这样一门课程。希望可以助力有兴趣探索实践，愿意在学习工作中体验Al赋能的职场达人，丰富自己AI技能树。**用学习成长对抗焦虑**，学习Dify可能是其中很适合的破局起点。
+
+
+#### 为什么学习使用 Dify？
+在大模型时代，选择适合的AI 工具为自己定制个性化应用，完成特定任务，将成为多数职场人士的基本能力。Dify 是其中颇多人喜欢使用的一款 ，在专业性和可视化操作上都非常不错。并且Dify除了支持云服务使用，还可以在个人电脑上免费安装和使用。无论您是否是技术开发人员，都可以利用 Dify 创建应用，提升个人日常或工作场景的效率。
+
+#### 入门学习搭建AI应用，选Dify还是扣子？
+从入门学习难度，Dify 的可视化操作更贴近研发思维，上手难度可能高些。但Dify有非常多使用场景优势，特别适合需要完成专业任务的职场人（入门难度：简单小助手搭建工具（比如：元宝）< 扣子< Dify ）
+- 本地使用：Dify 可以安装在个人电脑或私有服务器上使用，无需将数据或文档上传至外部平台。
+- 灵活的配置：Dify 提供更详细丰富的 RAG 配置及模型选择，适合围绕私有文档数据构建个人或企业知识库。
+- 国际化：Dify 支持几乎所有国内外模型的配置使用，包括最新的 GPTo1 等。
+- 免费使用：可以免费使用 Dify，甚至进行商业应用，从而节省大量成本。
+- 开放性：Dify 支持一键导入或导出 AI 应用和工作流文件到任何 Dify 系统，几乎没有限制。
+- 更易用AI辅助编写：Dify的开放性，可以直接查看工作流文件源码，让AI工具在基础上编写
+
+> 除了个人场景，Dify 也非常适合在企业场景下使用，基于企业私有数据搭建AI应用。非研发人员使用Dify搭建业务流程框架、demo，由研发人员实现技术细节。
+
+#### 非研发人员能否学会使用 Dify？
+如果您具备一定的研发经验，可以使用Dify 创建更复杂强大的 AI 应用。然而，对于非研发人员，无需过于关注面向研发的功能，通过 Dify 的可视化交互操已经可以构建个性化且强大的 适合日常使用和职场办公的AI 应用。我们的课程目标就是帮助您系统地上手 Dify，完成各类典型任务。
+
+#### 职场达人如何从0学习使用AI？
+非研发岗位职场达人AI学习路径图。刚接触AI可能会感觉知识大爆炸，不知如何学起。这时候，最好就是找一条适合自己的学习路径，边实践边学习，逐步变得更懂AI。通过本课程助力你打通自己的AI学习路径，进阶对AI的理解和操作能力，入门用AI解决工作场景问题。（本课程助力你第4级专业AI使用者）
+
+![](/course/04.png)
+
+### 教程课表（周更） 
+
+> **职场达人的入门Dify实操课：助你系统上手Dify完成各类典型任务**
+> 
+> 2024年11月8日开学，每周1期，发布教程和组织学习
+> 
+> 为什么每周上线一个项目教程，不集中上课？
+> 1. 我们希望打造一个长期陪伴的学习氛围。可以把在这里学习Dify，作为自己的知识储备，学习一个对自己长期成长有帮助的AI技能，看好趋势。当你遇到Dify使用问题时，想起这里有个地方可以交流。
+> 2. 不要压力太大，坚持学完是关键。工作之余每周学一个项目，可能刚刚好。高强度开班，有时很难坚持完。
+> 3. Dify发展太快了，有新功能，新使用场景探索出来，我们会根据需要更新教程。
+
+| 上线时间 | 学习形式 | | 学习Dify功能实操 | 辅导老师 |
+| --- | --- | --- | --- | --- |
+| 11月8日 | 文档教程 | 1 | 实操：在电脑本地安装dify并进行基础配置 | @ning |
+| 11月15日 | 文档教程 | 2 | 实操：购买云服务器，并部署dify，绑定域名公开访问 | @link |
+| 11月22日 | 文档教程 | 3 | 知识：理解RAG的工作原理，通过Dify实现RAG操作环节全景图 | @六月 |
+| 11月29日 | 文档教程 | 4 | 实操：Dify的RAG能力案例实践，搭建基于私有文档的AI问答应用 | @六月 |
+| 12月6日 | 文档教程 | 5 | 实操：提升知识库效果，数据基础预处理方法介绍 | @六月 |
+| 12月13日 | 文档教程 | 6 | 实操：Dify的两种工作流能力介绍与AI应用实践 | @六月 |
+| 12月20日 | 文档教程 | 7 | 知识：（进阶）了解Dify在运行时启动的服务，简析Dify技术架构 | @六月 |
+
+| 上线时间 | 学习形式 | | 学习Dify功能实操 | 辅导老师 |
+| --- | --- | --- | --- | --- |
+| 11月8日 | 文档教程 | 1 | 实操：在电脑本地安装dify并进行基础配置 | @ning |
+| 12月27日 | 文档教程 | 8 | 项目场景：微信变AI，把Dify搭建的AI应用接入微信个人号 | @link |
+| 1月6日 | 文档教程 | 9 | 项目场景：知识库问答，基于私有文档问答，并能更新知识库的问答助手 | @ning |
+| 1月10日 | 文档教程 | 10 | 项目场景：内容校对，使用RAG方案搭建自定义规则内容审校助手 | @六月 |
+| 1月17日 | 文档教程 | 11 | 项目场景：批量文档翻译，用Dify搭建可以翻译电子文档的神器 | @凯峰 |
+| 2月7日 | 文档教程 | 12 | 项目场景：网页抓取分析，用Dify搭建帮你抓取并分析指定网页的助手 | @ning |
+| 2月17日 | 文档教程 | 13 | 项目场景：文档数据分析，用Dify搭建Excel、PDF等文档的分析助手 | @凯峰 |
+| 2月24日 | 文档教程 | 14 | 项目场景：个性文稿撰写，搭建可以仿照风格和格式要求撰写文稿的助手 | @凯峰 |
+| | 加餐分享 | | 场景：AI辅助开发，用AI辅助学习开发以及做开发的实践与思考 | @link |
+
+更多学习内容筹备中，欢迎扫描下方二维码联系我们分享你的Dify使用经验
+
+### 直播计划
+
+> 11月底～4月底，约每月1期，伴随整个学习周期，由社区专家分享Dify使用、AI场景落地的思考心得
+> 
+> 具体时间&直播地址会前3天通知
+
+| 学习形式 | | 直播话题方向 | 负责人
+| --- | --- | --- | --- |
+| 视频直播 | 1 | 数据分析，用Dify搭建网络信息分析工作流，辅助业务经营 | 陈琨@AI产品经理 |
+| 视频直播 | 2 | Dify的RAG能力实践，搭建基于私有文档的问答应用实操和挑战 | 六月@研发效能教练 |
+| 视频直播 | 3 | 探索大模型和 RAG 在企业的落地实践 | 王吕@AI架构师 |
+| 视频直播 | 4 | 团队协作场景下的工作流设计与实践 | 六月@研发效能教练 |
+| 视频直播 | 5 | AI应用落地的总结与思考，寻找高价值场景 | 徐思宇@AI产品经理 |
+| 视频直播 | 6 | 从企业视角看待AI大模型落地 | 王健@企业架构师 |
+| 视频直播 | 7 | 使用Dify做生文、生图类项目实践 | Eric@AI产品经理 |
+| 视频直播 | 8 | 聊聊我的开源项目Dify on WeChat，把Dify接入微信的实践和思考 | 方圆@程序员、开源爱好者 |
+
+更多学习内容筹备中，欢迎扫描下方二维码联系我们分享你的Dify使用经验
+
+### 报名购买
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
-> ~原价428元 （第1季129元+第2季299元）~
-- 报名立刻获得 「职场达人入门AI实操课」全部学习服务 
-- 微信红包转账 268元/人   
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：268元/人 </bold></p>
+> ~5.4折  原价498元/人~
+- 获得 职场达人「入门Dify实操课 」全部学习服务，11月8日开课学习。
+- 报名方式：扫码添加课程作者微信，微信红包转账 268元/人 
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 289元/人（推荐）</bold></p>
-> ~536元=268元+268元~
-- 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
-- 微信红包转账 289元/人
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买（推荐）： 289元/人 </bold></p>
+> ~268元+268元~
+- 获得 职场达人「入门Dify实操课 」+「入门AI实操课」全部学习服务 ，共计29个实操项目，多场直播
+- 报名立刻获得「入门AI实操课」已上线教程，开始学习。
+- 报名方式：扫码添加课程作者微信，微信红包转账 289元/人
 
-**职场达人入门系列课程：**
-
-<a href="/" target="_blank" rel="noopener noreferrer">职场达人的AI实操课：一起做15个AI项目，变得更懂使用AI</a>
+<a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
-> 两门课共计289元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
-
+> 两门课289元= 29个实操项目+多场直播，祝你成为更懂操作使用AI的职场达人
+> 
+> 现在报名，立马可以获得「入门AI实操课」前11个项目教程，学习起来
 </div>
 
-### 报名咨询（扫码课程作者微信）
+### 报名咨询
+扫码添加课程作者微信咨询
+
 <div style="display: flex;">
   <img src="/course/08.jpeg" style="width: 30%;" />
-  <img class="ml-4" src="/course/09.png" style="width: 30%;" />
-</div>
-
-## 课程15个搭建项目概览
-
-### 第1季6个项目
-
-| | 教程上线计划 | | |
-| --- | --- | --- | --- |
-| 1 | 已上线 | 解决国外模型使用，为自己打造超强AI对话工具，直连多种国内外模型 | 模型对话工具搭建 |
-| 2 | 已上线 | 打造AI备忘录，用coze数据库，搭建可做数据存储、查询、分析的助手 | 搭建agent |
-| 3 | 已上线 | 打造爬虫bot，用coze单agent工作流，搭建抓取网页和知识库助手 | 搭建agent |
-| 4 | 已上线 | 打造提示词编写助手，用coze多agnet，搭midjourney提示词编写助手 | 搭建agent |
-| 5 | 已上线 | 打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG | 操作本地模型+RAG |
-| 6 | 已上线 | 打造拥有AI能力的飞书应用，把FastGPT创建的bot接入飞书机器人 | 搭建agent |
-
-### 第2季9个项目
-
-| | 教程上线计划 | | |
-| --- | --- | --- | --- |
-| 7 | 已上线 | 打造个人AI搜索工具，随心高效搜索网上优质内容 | 模型对话工具搭建 |
-| 8 | 已上线 | 上手微调，把数据集喂进llama3.1-8b，并在电脑本地使用微调后的模型 | 线上微调模型+操作本地模型 |
-| 9 | 已上线 | 稳定使用claude模型，利用google云，把claude接入自己的AI对话工具 | 模型对话工具搭建 |
-| 10 | 已上线 | 打造自己的"干货"信息流，抓取订阅号内容，变为RSS订阅并用AI再加工 | 通用搭建技能 |
-| 11 | 已上线 | 免费打造个人blog，迈出AI时代打造IP一小步，并用Cloudflare管理域名 | 通用搭建技能 |
-| 12 | 已上线 | 解决需要"企业邮箱"注册服务困扰，打造个人域名后缀的"企业邮箱" | 通用搭建技能 |
-| 13 | 已上线 | 详解在个人电脑安装Dify以及通过配置环境变量和Docker绑定第三方服务 | 搭建agent |
-| 14 | 10月21日 | 在云服务器上部署dify，绑定域名公开访问 | 搭建agent |
-| 15 | 10月28日 | 把个人微信变成AI助手，把dify搭建的agent接入个人微信 | 搭建agent |
-
-### 直播活动概览
-
-| | | |
-| - | - | - |
-| **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 |
-| **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 |
-| 待开始 | 视频直播 | <a href="https://ui1aq1cogim.feishu.cn/docx/HXZOd6Axmo0bTrx8R9Gc2uNunAc" target="_blank" rel="noopener noreferrer">【直播预告】带你1.5小时系统入门RAG @大圣</a> |
-| 待开始 | 视频直播 | 主题方向：AI应用市场机会思考 |
-| 待开始 | 视频直播 | 主题方向：Dify RAG 搭建与应用实操 |
-| 待开始 | 视频直播 | 主题方向：从企业视角看待AI大模型落地 |
-
-> 本学习活动建议IT环境
-> - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、coze.com 、dify类似服务
-> - **本地电脑：** 第5个、第8个两个项目有硬件要求，其它项目可只考虑网络环境。
-> 第5个、第8个两个项目涉及通过ollama在本地电脑运行模型。比如：Qwen2-7b、 llama3-8b模型，参考配置： Mac M1或M2芯片  16G内存，> 20G以上硬盘空间 。 PC 3060以上显卡+8G以上显存+16G内存，20G以上硬盘空间。目前教程是在Mac M2 16G内存的电脑上进行流畅操作演示。其它项目无特别硬件配置要求。
-
-### 我们有手就会的实操教程风格试看
-
-了解我们的教程，欢迎通过我们提供的试看内容，了解我们的学习内容。
-
-<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
-<p>点击试看内容，了解我们的教程</p>
-
-> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【教程5试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案</a>
-> 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/GgbIdzUZLoXflHxe0n8cLmAbnuc" target="_blank" rel="noopener noreferrer">【教程试看】在电脑本地用Ollama应用运行llama3.1小模型</a>
-
-</div>
-
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/course/10.jpg" style="width: 24%;" />
-  <img src="/course/11.jpeg" style="width: 72%;" />
 </div>
 
 ---
 
-## 15个项目详细介绍
+### 关于本课程的电脑配置说明
 
-### 第1季6个项目
 
-#### 项目1：解决国外模型使用，为自己打造超强AI对话工具，可直连多种国内外模型
-> 让我们聚焦最常用的AI使用场景，自然语言对话。一起搭建超强"套壳"对话工具。通过这个项目，部署搭建后，可便捷稳定的与国内外线上大模型（或本地模型）对话，且无需切换网络环境。
+0 使用Dify官网的官方云服务，只学习用Dify搭建bot，不学习搭建Dify社区版
+<br>
+对本地电脑没有特别的要求，通过能正常办公的电脑，能上网就行
+
+<div class="mt-4" />
+
+1 如果采用电脑本地部署Dify的学习方法（教程1）+使用线上大模型的方案
+<br>
+Dify官方给出的硬件参考，最低安装要求
+<br>
+https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose
+<br>
+Docker Compose 部署
+<br>
+CPU >= 2 Core
+<br>
+RAM >= 4 GiB
+
+<div class="mt-4" />
+
+2 如果想采用云端方案（教程2）+使用线上大模型的方案
+<br>
+把Dify部署在自己购买的服务器，这个对本地电脑没有要求，能上网就行
+<br>
+服务器的硬件要求（本课程主要面向个人办公使用场景，不考虑企业使用）
+<br>
+相当于在服务器上部署Dify，服务器的硬件要求与在本地部署一样
+<br>
+CPU >= 2 Core
+<br>
+RAM >= 4 GiB
+
+<div class="mt-4" />
+
+3 如果采用电脑本地部署Dify的学习方法（教程1）+ 要使用本地大模型的模式（ollama+7B以上模型）
+<br>
+这个模式对电脑本地有硬件要求，否则可能只能是学习一下教程，无法像用线上模型一样实际使用
+<br>
+Dify部分硬件配置（一样）
+<br>
+Docker Compose 部署
+<br>
+CPU >= 2 Core
+<br>
+RAM >= 4 GiB
+<br>
+电脑本地同时还要跑模型通常采用 ollama+ 至少7b以上模型
+<br>
+建议配置：
+<br>
+比如：Qwen2-7b、 llama3-8b模型，参考配置： Mac M1或M2芯片  16G内存，20G以上硬盘空间 。 PC 3060以上显卡+8G以上
+显存+16G内存，20G以上硬盘空间。目前大部分教程在Mac M2 16G内存的电脑上进行流畅操作演示。
+
+---
+
+如果身边有朋友对我们的课程感兴趣，欢迎将下面的链接分享给他
+
+> 我们的职场达人AI课程，欢迎了解
+>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> 搭建难度：低
+> <a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+
+> 我们组织的一个免费Python共学活动，3周时间，一起学习吴恩达做给非研发人员入门Python的课程《AI Python for Beginners》，从此多一项技能，懂一点Python
 > 
-> 亮点
-> - 学习把Github上的开源项目lobechat部署到Vercel上，搭建套壳工具
-> - 添加零一万物、moonshot等模型key，并绑定自己域名
-> - 学习用提示词在lobechat上配置"GPTs"bot
-> <img src="/course/12.png" alt="" class="w-1/2" />
-
-#### 项目2：打造AI备忘录，用coze数据库，搭建可做数据存储、查询、分析的助手
-> 使用 coze.com 制作,拥有"记忆"的bot"备忘录小助手"，实现信息存储查询，待办提醒，数据处理等任务。
-> 搭建难度：低
-> 亮点
-> - 收获1个实用的备忘录小助手
-> - 了解使用 coze 制作agent的基本操作流程
-> - 了解典型agent系统中"角色定义&任务描述"、"插件工具"、"记忆"等模块工作方式。
-> <img src="/course/13.png" alt="" class="w-3/5" />
-
-#### 项目3：打造爬虫bot，用coze单agent工作流，搭建抓取网页和知识库助手
-> 使用 coze.cn 网页抓取和工作流功能，搭建可以抓取指定网页内容以及基于知识库的AI问答小助手。
-> 
-> 搭建难度：低
-> 
-> 亮点
-> - 收获2个小助手，抓取指定网页内容和基于知识库回答问题的小助手
-> - 了解使用 coze 编写工作流的基本操作方法
-> - 了解典型包含工作流、知识库的单agent的工作方式
-> - 体验使用coze搭建一个体现RAG工作原理的agent
-> <img src="/course/14.png" alt="" class="w-3/5" />
-
-#### 项目4：打造提示词编写助手，用coze多agent，搭midjourney提示词编写助手
-> 本项目将使用 coze.com 的多agent模式，搭建可以撰写、分析Midjourney提示词的小助手。
-> 搭建难度：低
-> 亮点
-> - 收获1个小助手，可以撰写、分析Midjourney提示词完成不同任务。
-> - 了解使用 coze 多agent模式，搭建小助手的基本操作方法。
-> - 体验让大模型自主决定使用哪个agent完成任务的多agent工作方式。
-> - 了解Midjourney提示词的基本撰写方式。
-> <img src="/course/15.png" alt="" class="w-3/5" />
-
-#### 项目5：打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG
-> 本项目将实践在电脑本地搭建个人知识库，把硬盘中积攒的文档用起来，高效又安心。使用ollama在电脑本地安装和运行千问大模型qwen2-7b，并在此基础上，借助Open WebUI和AnythingLLM 两种工具实现RAG方案，在电脑本地搭建个人知识库。
-> 搭建难度：中高
-> 亮点
-> - Ollama 下载，安装，在终端中使用
-> - 通过 Ollama 下载安装 Qwen2-7b
-> - 从huggingface下载安装 llama3-8b中文优化版
-> - 通过 Docker 安装 openWebUI, 并接入 Ollama
-> - 通过 openWebUI 实现个人知识库
-> - 通过安装anythingLLM实现个人知识库
-> <img src="/course/16.png" alt="" class="w-3/5" />
-> 试看
-> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【短期试看教程5】搭建自己的第5个AI项目：打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG</a>    密码：2&8p1719
-
-#### 项目6：打造拥有AI能力的飞书应用，把FastGPT创建的bot接入飞书机器人
-> 有些场景下，我们不方便使用扣子，但同样也可以让飞书应用具有AI能力，本项目将基于飞书开放平台和FastGPT，搭建具有AI能力的飞书应用。
-> 搭建难度：中高
-> 亮点
-> - 使用 FastGPT官网服务创建包含知识库的AIbot
-> - 使用飞书开放平台创建飞书应用
-> - 将飞书应用 和 FastGPT连接，让飞书应用具备AI能力
-> <img src="/course/17.png" alt="" class="w-3/5" />
-
-### 第2季9个项目
-
-#### 项目7：打造个人AI搜索工具，随心高效搜索网上优质内容
-> 带你借助优质开源项目Perplexica，在电脑本地搭建起自己的AI搜索工具。配合本地模型（或线上模型）对网上优质内容想搜就搜，不受preplexity等服务的功能限制。
-> 搭建难度：低
-> 亮点
-> - 用热门AI搜索开源项目Perplexica，打造自己的AI搜索工具
-> - 通过Docker在电脑本地安装Perplexica
-> - 使用ollama运行本地模型对接Perplexica
-> <img src="/course/18.png" alt="" class="w-3/5" />
-
-#### 项目8：上手微调，在云端微调llama3-8b实操，并在电脑本地使用微调后的模型
-> 不需要4090也能实践微调操作，带你借助云服务免费实践微调基础操作流程，将自己的文档喂进模型，在本地用上包含自己专属知识的llama3-8b。
-> 搭建难度：中
-> 亮点
-> - 模型微调概念简介
-> - 微调云服务 Unsloth.ai 介绍
-> - 使用AI辅助将原始文档处理为适合微调的数据格式
-> - 使用 unsloth.ai , google colab 训练微调 llama3 大模型
-> - 使用 ollama和openwebui 与微调后的大模型对话
-> <img src="/course/19.png" alt="" class="w-3/5" />
-
-#### 项目9：打造稳定使用claude模型方案，利用google云把claude接入"套壳"对话工具
-> 不用再为使用claude大模型发愁，带你借助google云服务中的claude模型、AI开发平台Vertex、cloudflare 、lobechat搭建可以直接访问使用claude大模型的方案。
-> 搭建难度：中
-> 亮点
-> - 搭建使用claude大模型的工具，可以自用也可以共享伙伴使用
-> - 接触google云服务和AI开发平台Vertex
-> - 接触实用服务cloudfare的Workers功能
-> - 使用google云服务赠送300美金，免费使用claude大模型
-> <img src="/course/20.png" alt="" class="w-3/5" />
-
-#### 项目10：打造自己的"干货"信息流，抓取订阅号B站内容，变为RSS订阅并用AI再加工
-> 万物皆可RSS，看什么自己说了算。带你搭建WEWERSS、RSSHub服务，自动把订阅号和一些网站的内容抓取下来变成RSS信息源。方便导入RSS阅读器或交给AI bot进行更多处理。
-> 搭建难度：低
-> 亮点
-> - RSSHub 、RSSHub Rader 介绍
-> - 使用RSSHub官方提供的服务订阅 twitter, b站频道
-> - 使用Pikapods 部署自己域名的RSSHub服务把B站频道转成RSS
-> - 使用zeabur 部署自己域名的WeWe RSS服务把订阅号转成RSS
-> - 把RSS地址添加到AIbot进行更多处理
-> <img src="/course/21.png" alt="" class="w-3/5" />
-
-#### 项目11：免费打造个人blog，迈出AI时代打造IP一小步，并用Cloudflare管理域名
-> 带你借助hugo 在 github 上打造可以绑定自己域名的个人blog，并利用Cloudfare做DNS解析，优化blog访问。迈出打造超级个体的一小步。
-> 搭建难度：低
-> 亮点
-> - 学习 github的page 、action功能介绍
-> - 使用 hugo 在github打造个人 blog
-> - 学习用 cloudflare 管理域名，并为个人博客绑定域名
-> - 学习用 cloudflare 实现内容访问加速
-> <img src="/course/22.png" alt="" class="w-1/4" />
-
-#### 项目12：解决需要"企业邮箱"注册服务困扰，打造个人域名后缀的"企业邮箱"
-> 带你借助 coludfare+resend 打造用自己域名后缀的邮箱收发邮件，解决有些服务需要"企业邮箱"才可以注册申请的困扰。
-> 搭建难度：低中
-> 亮点
-> - 打造个人域名后缀的"企业邮箱"
-> - 使用 cloudflare 免费为个人域名创建无限的企业邮箱账号，并可用个人邮箱接收邮件
-> - 使用 resend 服务以企业邮箱身份发送邮件
-> <img src="/course/23.png" alt="" class="w-1/2" />
-
-#### 项目13：打造超低花费的agent制作环境，带你在电脑本地部署dify并制作agent
-> 打造超低花费的agent制作环境，带你用docker在电脑本地搭建起dify，减少测试调试开销。并且可以通过ngork临时远程访问本地dify搭建的bot
-> 搭建难度：低中
-> 亮点
-> - 使用docker，将社区开源版dify部署到电脑本地
-> - 添加本地模型和线上模型
-> - 使用dify制作包含工作流、知识库的agent
-> - 使用ngork实现远程访问本地dify搭建的bot
-> <img src="/course/24.png" alt="" class="w-1/2" />
-
-#### 项目14：在云服务器上部署dify，绑定域名公开访问
-> 为你演示在云服务器上部署dify的操作流程，助技术同学快速上手，助产品同学了解使用dify方案在企业内探索RAG搭建知识库的方法。（友情提示：在云服务器上部署dify涉及较多服务器配置操作，且在工作中通常是技术同学主导完成，所以本教程的dify服务器部署主要以技术视角做演示说明）
-> 搭建难度：高
-> 亮点
-> - 将社区开源版dify部署到云服务器（操作全流程演示）
-> - 使用dify制作包含工作流、知识库的agent
-> <img src="/course/25.png" alt="" class="w-1/2" />
-
-#### 项目15：把个人微信变成AI小助手，把dify搭建的agent接入个人微信
-> 想尝试把微信个人号变成AI小助手，但受困于购买服务器和部署的繁琐。我们带你用更简单方法，在本地电脑搭建，实现将dify制作的agent接入个人微信号。
-> 搭建难度：低中
-> 亮点
-> - 使用开源项目在电脑本地搭建，实现将dify制作的agent接入个人微信
-> - 通过dify编写agent让微信个人号具备所需的AI能力
-> <img src="/course/26.png" alt="" class="w-1/2" />
-
-<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
-👍 让我们一起上手实践，通过练习自建AI服务，提升动手能力，成为AI-NATIVE时代，更懂AI的产品人
-</div>
-
-### 报名咨询
-扫码添加课程作者微信
-
-**@Ning**
-
-产品经理
-
-先后在CSDN、极客邦等技术社区从事产品工作
-
-目前探索基于AI的产品设计
-
-<div class="my-8" />
-
-**@Link**
-
-全栈工程师
-
-先后在美团和美国web3公司担任核心开发工程师
-
-目前探索基于AI的产品研发
-
-<div style="display: flex;">
-  <img src="/course/08.jpeg" style="width: 30%;" />
-  <img class="ml-4" src="/course/09.png" style="width: 30%;" />
-</div>
-
-> 我们的职场达人AI系列课程，欢迎了解
-> 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
-> 
-> <a href="/" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
-
-<div class="my-64" />
+> <a href="https://ui1aq1cogim.feishu.cn/docx/VDFvdrqnconi1dxLNEOct7JtnRd" target="_blank" rel="noopener noreferrer">吴恩达Python课程免费共学活动</a>
