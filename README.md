@@ -1,6 +1,6 @@
 ## 职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解
 
-https://ai-cookbook-course.vercel.app/
+https://ai-cookbook-course.pages.dev/
 
 ## Powered by
 
