@@ -165,12 +165,12 @@ pageTitle: 'Dify 实操课入门'
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：268元/人 </bold></p>
-> ~5.4折  原价498元/人~
+> <span class="line-through text-gray-400">5.4折  原价498元/人</span>
 - 获得 职场达人「入门Dify实操课 」全部学习服务，11月8日开课学习。
 - 报名方式：扫码添加课程作者微信，微信红包转账 268元/人 
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买（推荐）： 289元/人 </bold></p>
-> ~268元+268元~
+> <span class="line-through text-gray-400">268元+268元</span>
 - 获得 职场达人「入门Dify实操课 」+「入门AI实操课」全部学习服务 ，共计29个实操项目，多场直播
 - 报名立刻获得「入门AI实操课」已上线教程，开始学习。
 - 报名方式：扫码添加课程作者微信，微信红包转账 289元/人
