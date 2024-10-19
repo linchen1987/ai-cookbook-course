@@ -255,9 +255,9 @@ RAM >= 4 GiB
 
 > 我们的职场达人AI课程，欢迎了解
 >
-> <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+> <a href="/" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 > 我们组织的一个免费Python共学活动，3周时间，一起学习吴恩达做给非研发人员入门Python的课程《AI Python for Beginners》，从此多一项技能，懂一点Python
 > 
