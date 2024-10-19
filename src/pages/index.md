@@ -175,9 +175,9 @@ pageTitle: 'Dify 实操课入门'
 - 报名立刻获得「入门AI实操课」已上线教程，开始学习。
 - 报名方式：扫码添加课程作者微信，微信红包转账 289元/人
 
-<a href="https://ui1aq1cogim.feishu.cn/docx/WiXIdAMWVoyRLjxpPuFcCHa6nmn" target="_blank" rel="noopener noreferrer">职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+<a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
-<a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+<a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
 > 两门课289元= 29个实操项目+多场直播，祝你成为更懂操作使用AI的职场达人
 > 
