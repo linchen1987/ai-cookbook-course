@@ -1,5 +1,5 @@
 ---
-title: '（课程介绍）职场达人的入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务'
+title: '职场达人的入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: 'Dify 实操课入门'
 ---
@@ -11,16 +11,19 @@ pageTitle: 'Dify 实操课入门'
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 **职场达人的Dify实操课：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务**
+
 11+位讲师、14个实操教程、7+场直播
 
 **课程分3部分**
 
 - **7个Dify功能使用教程（howto）**
 
-  从Dify部署到，工作流搭建，预计Dify的RAG能力优化，点亮你的Dify技能树
+  从Dify部署到，工作流搭建，Dify 的 RAG 能力简单优化，点亮你的Dify技能树
+
 - **7个Dify动手实操项目（howto）**
 
   从RAG知识库问答、文档校对，到网页、文档数据分析实践，以及个性文稿撰写，批量文档翻译...
+
 - **7+场视频直播（knowhow）**
 
   结合工作场景的RAG落地、AI场景落地数据分析、内容生成等实践分享
@@ -34,7 +37,7 @@ pageTitle: 'Dify 实操课入门'
 
 > <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课第0期（免费直播公开课）</a>
 
-在个人电脑安装Dify社区版实操，并绑定模型和第三方服务 （以绑定Notion、SearXNG举例）
+在个人电脑安装Dify社区版实操，并绑定模型和第三方服务（以绑定Notion、SearXNG举例）
 
 </div>
 
