@@ -35,7 +35,7 @@ pageTitle: 'Dify 实操课入门'
 
 10月22日（周2）晚8点
 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课第0期（免费直播公开课）</a>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课第1期（免费直播公开课）</a>
 
 在个人电脑安装Dify社区版实操，并绑定模型和第三方服务（以绑定Notion、SearXNG举例）
 
