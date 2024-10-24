@@ -37,9 +37,9 @@ pageTitle: 'Dify 实操课入门'
 
 > <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课（直播公开课版）</a>
 
-> AI客服，基于开源项目Dify on WeChat，把Dify接入微信生态实践
->
-> 分享嘉宾：@方圆 程序员、开源爱好者LLMOps平台开发，开源项目Dify on WeChat作者 目前专注于AI 客服领域
+AI客服，基于开源项目Dify on WeChat，把Dify接入微信生态实践
+<br>
+分享嘉宾：@方圆 程序员、开源爱好者LLMOps平台开发，开源项目Dify on WeChat作者 目前专注于AI 客服领域
 
 </div>
 
