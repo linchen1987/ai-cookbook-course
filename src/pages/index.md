@@ -1,11 +1,12 @@
 ---
 title: '入门Dify实操课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务'
+description: '入门Dify课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: '入门Dify实操课程'
 ---
 
 <div class="mb-6">
-  <small>10 月 18 日修改</small>
+  <small>10 月 24 日更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
