@@ -1,7 +1,7 @@
 ---
-title: '职场达人的入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务'
+title: '入门Dify实操课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'Dify 实操课入门'
+pageTitle: '入门Dify实操课程'
 ---
 
 <div class="mb-6">
