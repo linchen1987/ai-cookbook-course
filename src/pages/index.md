@@ -5,7 +5,7 @@ pageTitle: 'AI实操课入门'
 ---
 
 <div class="mb-6">
-  <small>10 月 17 日修改</small>
+  <small>10 月 29 日修改</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
@@ -62,7 +62,7 @@ pageTitle: 'AI实操课入门'
 
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; gap: 1rem;">
-  <div style="width: 16%; display: flex; flex-direction: column;">
+  <div style="width: 32%; display: flex; flex-direction: column;">
     <a href="/course/04.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
       <img src="/course/04.png" alt="教程截图" style="width: 100%; object-fit: cover;" />
     </a>
