@@ -61,26 +61,6 @@ pageTitle: 'AI实操课入门'
 - **5场直播：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回放长期有效）
 
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 1rem;">
-  <div style="width: 32%; display: flex; flex-direction: column;">
-    <a href="/course/04.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/04.png" alt="教程截图" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">教程截图</p>
-  </div>
-  <div style="width: 16%; display: flex; flex-direction: column;">
-    <a href="/course/05.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/05.png" alt="学员4星5星好评" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">学员4星5星好评</p>
-  </div>
-  <div style="width: 44%; display: flex; flex-direction: column;">
-    <a href="/course/07.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/07.png" alt="直播" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">直播</p>
-  </div>
-</div>
 
 ### 购买
 
