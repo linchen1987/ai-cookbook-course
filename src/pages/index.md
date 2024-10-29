@@ -19,13 +19,13 @@ pageTitle: 'AI实操课入门'
 > 我们的职场达人AI系列课程
 >
 >
-> <a href="/" target="_blank" rel="noopener noreferrer">职场达人AI系列课程的作者&部分邀约直播嘉宾</a>
+> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
 >
-> <a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+> <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
 
 </div>
 
-### 职场达人AI系列课程的作者&部分邀约直播嘉宾
+### 课程直播嘉宾&教程作者
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
   <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
@@ -37,31 +37,29 @@ pageTitle: 'AI实操课入门'
 - 助力职场人了解AI模型工具的工作原理获得实操经验（直播：KNOW-HOW）
 
 ### 适合谁
-- 对AI感兴趣，想提升动手能力的产品、运营职场人
-- 想作一些知识、技能储备，提升AI使用能力的人
-- 从事数据分析等寻求专业技能转型提升的人
+- 有定制化使用AI工具需求的人士
+- 想提升动手能力使用前沿AI工具的人士
+- 想作一些AI知识技能储备的人士
+- 想开拓视野，研究前沿模型工具的人士
+- 从事数据分析等寻求专业技能转型提升的人士
 - 想要将AI融入业务的中小企业主
 - 关注AI，从事教培的教师和科研人员
-- 想开拓视野，研究前沿模型工具的人
-- 喜欢折腾，想提升动手能力使用前沿AI工具的人
-- 想探索AI的人
 
 ### 学习收获
-- 收获多个好用的AI工具，建立起对自己长期成长有帮助的AI工具箱
-- 助力你从通用AI工具使用者，入门成为AI应用的构造者，可以围绕自己的场景定制AI工具
-- 增加15个项目的操作经验，通过亲手搭建，提升对AI模型工具工作原理的理解
-- 提升了动手能力，掌握典型AI工具安装方法。解决探索前沿AI工具，被安装环节卡住的问题，通过做项目掌握Github、huggingface上热门AI模型工具的安装方法，学会基于docker、python、Git、Github、Homebrew、ollama等方式安装使用AI模型工具。
-- 15个可以展现自己专业技能的项目作品集
+- 15个项目作品集，展示自己对大模型理解和操作能力
+- 提升搭建和使用AI服务的能力，掌握AI时代必备基础技能
+- 打造对自己长期有帮助的AI工具箱
+- 提升职场竞争力
 
 ### 学习路径图
 刚接触AI的职场人，可能会感觉知识大爆炸，不知如何学起。这时候，最好就是找一条适合自己的学习路径，边实践边学习，逐步变得更懂AI。通过本课程助力你打通自己的AI学习路径，进阶对AI的理解和操作能力，入门AI工具、bot搭建操作。（本课程内容主要助力你第4级专业AI使用者）
 
 ![](/course/03.png)
 
-### 3个学习服务
+### 2个学习服务
 - **15个实操项目教程（长期有效）**
 - **5场直播：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回放长期有效）
-- **1个微信群**
+
 
 <div style="display: flex; justify-content: space-between; align-items: stretch; gap: 1rem;">
   <div style="width: 16%; display: flex; flex-direction: column;">
@@ -72,15 +70,9 @@ pageTitle: 'AI实操课入门'
   </div>
   <div style="width: 16%; display: flex; flex-direction: column;">
     <a href="/course/05.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/05.png" alt="第一季学员4星5星好评" style="width: 100%; object-fit: cover;" />
+      <img src="/course/05.png" alt="学员4星5星好评" style="width: 100%; object-fit: cover;" />
     </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">第一季学员4星5星好评</p>
-  </div>
-  <div style="width: 16%; display: flex; flex-direction: column;">
-    <a href="/course/06.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
-      <img src="/course/06.png" alt="答疑微信群" style="width: 100%; object-fit: cover;" />
-    </a>
-    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">答疑微信群</p>
+    <p style="text-align: center; font-size: 0.8rem; margin-top: 0rem;">学员4星5星好评</p>
   </div>
   <div style="width: 44%; display: flex; flex-direction: column;">
     <a href="/course/07.png" target="_blank" rel="noopener noreferrer" style="flex-grow: 1; display: flex;">
@@ -106,9 +98,9 @@ pageTitle: 'AI实操课入门'
 
 **职场达人入门系列课程：**
 
-<a href="/" target="_blank" rel="noopener noreferrer">职场达人的AI实操课：一起做15个AI项目，变得更懂使用AI</a>
+<a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
 
-<a href="https://ui1aq1cogim.feishu.cn/docx/HLfCdy3eboDCMhx4qmscmYNrnmg" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+<a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
 > 两门课共计289元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
 
@@ -132,11 +124,6 @@ pageTitle: 'AI实操课入门'
 | 4 | 已上线 | 打造提示词编写助手，用coze多agnet，搭midjourney提示词编写助手 | 搭建agent |
 | 5 | 已上线 | 打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG | 操作本地模型+RAG |
 | 6 | 已上线 | 打造拥有AI能力的飞书应用，把FastGPT创建的bot接入飞书机器人 | 搭建agent |
-
-### 第2季9个项目
-
-| | 教程上线计划 | | |
-| --- | --- | --- | --- |
 | 7 | 已上线 | 打造个人AI搜索工具，随心高效搜索网上优质内容 | 模型对话工具搭建 |
 | 8 | 已上线 | 上手微调，把数据集喂进llama3.1-8b，并在电脑本地使用微调后的模型 | 线上微调模型+操作本地模型 |
 | 9 | 已上线 | 稳定使用claude模型，利用google云，把claude接入自己的AI对话工具 | 模型对话工具搭建 |
@@ -144,19 +131,19 @@ pageTitle: 'AI实操课入门'
 | 11 | 已上线 | 免费打造个人blog，迈出AI时代打造IP一小步，并用Cloudflare管理域名 | 通用搭建技能 |
 | 12 | 已上线 | 解决需要"企业邮箱"注册服务困扰，打造个人域名后缀的"企业邮箱" | 通用搭建技能 |
 | 13 | 已上线 | 详解在个人电脑安装Dify以及通过配置环境变量和Docker绑定第三方服务 | 搭建agent |
-| 14 | 10月21日 | 在云服务器上部署dify，绑定域名公开访问 | 搭建agent |
-| 15 | 10月28日 | 把个人微信变成AI助手，把dify搭建的agent接入个人微信 | 搭建agent |
+| 14 | 已上线 | 在云服务器上部署dify，绑定域名公开访问 | 搭建agent |
+| 15 | 10月31日 | 把个人微信变成AI助手，把dify搭建的agent接入个人微信 | 搭建agent |
 
 ### 直播活动概览
 
 | | | |
 | - | - | - |
+| **已完成** | 有回放 | 读《How to Build Your Career in AI》有感 @ ning AI 产品经理|
 | **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 |
 | **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 |
+| **已完成** | 有回放 | 搭建，在个人电脑安装Dify社区版实操，并绑定模型和第三方服务  @六月 研发效能教练 |
 | 待开始 | 视频直播 | <a href="https://ui1aq1cogim.feishu.cn/docx/HXZOd6Axmo0bTrx8R9Gc2uNunAc" target="_blank" rel="noopener noreferrer">【直播预告】带你1.5小时系统入门RAG @大圣</a> |
-| 待开始 | 视频直播 | 主题方向：AI应用市场机会思考 |
-| 待开始 | 视频直播 | 主题方向：Dify RAG 搭建与应用实操 |
-| 待开始 | 视频直播 | 主题方向：从企业视角看待AI大模型落地 |
+| 待开始 | 视频直播 | 企业场景RAG落地实践  @王吕 AI架构师|
 
 > 本学习活动建议IT环境
 > - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、coze.com 、dify类似服务
@@ -186,7 +173,6 @@ pageTitle: 'AI实操课入门'
 
 ## 15个项目详细介绍
 
-### 第1季6个项目
 
 #### 项目1：解决国外模型使用，为自己打造超强AI对话工具，可直连多种国内外模型
 > 让我们聚焦最常用的AI使用场景，自然语言对话。一起搭建超强"套壳"对话工具。通过这个项目，部署搭建后，可便捷稳定的与国内外线上大模型（或本地模型）对话，且无需切换网络环境。
@@ -253,7 +239,6 @@ pageTitle: 'AI实操课入门'
 > - 将飞书应用 和 FastGPT连接，让飞书应用具备AI能力
 > <img src="/course/17.png" alt="" class="w-3/5" />
 
-### 第2季9个项目
 
 #### 项目7：打造个人AI搜索工具，随心高效搜索网上优质内容
 > 带你借助优质开源项目Perplexica，在电脑本地搭建起自己的AI搜索工具。配合本地模型（或线上模型）对网上优质内容想搜就搜，不受preplexity等服务的功能限制。
@@ -352,9 +337,9 @@ pageTitle: 'AI实操课入门'
 
 产品经理
 
-先后在CSDN、极客邦等技术社区从事产品工作
+前CSDN、极客邦业务产品总监。
 
-目前探索基于AI的产品设计
+先后完成多款日活10万+Web产品和0-1移动端创新产品。在Github发起StuQ技能图谱项目20kStar
 
 <div class="my-8" />
 
@@ -375,6 +360,6 @@ pageTitle: 'AI实操课入门'
 > 
 > <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 <div class="my-64" />
