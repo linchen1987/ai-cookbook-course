@@ -144,7 +144,7 @@ pageTitle: 'AI实操课入门'
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/course/10.jpg" style="width: 24%;" />
-  <img src="/course/11.jpeg" style="width: 72%;" />
+  <img src="/course/55.png" style="width: 72%;" />
 </div>
 
 ---
