@@ -7,13 +7,13 @@ pageTitle: '入门Dify实操课程'
 
 <script>
  window.difyChatbotConfig = {
-  token: 'ELwtolSN6YiGktjG',
+  token: 'yeGdsNpHlhOIfIZ9',
   baseUrl: 'https://dify.universefs.com'
  }
 </script>
 <script
  src="https://dify.universefs.com/embed.min.js"
- id="ELwtolSN6YiGktjG"
+ id="yeGdsNpHlhOIfIZ9"
  defer>
 </script>
 <style>
