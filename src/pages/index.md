@@ -5,8 +5,29 @@ layout: '~/layouts/CourseLayout.astro'
 pageTitle: '入门Dify实操课程'
 ---
 
+<script>
+ window.difyChatbotConfig = {
+  token: 'ELwtolSN6YiGktjG',
+  baseUrl: 'https://dify.universefs.com'
+ }
+</script>
+<script
+ src="https://dify.universefs.com/embed.min.js"
+ id="ELwtolSN6YiGktjG"
+ defer>
+</script>
+<style>
+  #dify-chatbot-bubble-button {
+    background-color: #1C64F2 !important;
+  }
+  #dify-chatbot-bubble-window {
+    width: 24rem !important;
+    height: 40rem !important;
+  }
+</style>
+
 <div class="mb-6">
-  <small>10 月 24 日更新</small>
+  <small>10 月 31 日更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
