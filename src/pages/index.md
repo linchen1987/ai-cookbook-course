@@ -28,7 +28,7 @@ pageTitle: '入门Dify实操课程'
 
 
 <div class="mb-6">
-  <small>11 月 07 日更新</small>
+  <small>11 月 08 日更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
@@ -186,24 +186,22 @@ pageTitle: '入门Dify实操课程'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：268元/人 </bold></p>
-> <span class="line-through text-gray-400">5.4折  原价498元/人</span>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：368元/人 </bold></p>
+> <span class="line-through text-gray-400">  原价498元/人</span>
 - 获得  「0-1入门Dify实操课 」全部学习服务
-- 报名方式：扫码添加课程作者微信，微信红包转账 268元/人 
+- 报名方式：扫码添加课程作者微信，微信红包转账 368元/人 
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买（推荐）： 289元/人 </bold></p>
-> <span class="line-through text-gray-400">268元+268元</span>
-- 获得 职场达人「入门Dify实操课 」+「入门AI实操课」全部学习服务 ，共计29个实操项目，多场直播
-- 报名立刻获得「入门AI实操课」已上线教程，开始学习。
-- 报名方式：扫码添加课程作者微信，微信红包转账 289元/人
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买（推荐）： 389元/人 </bold></p>
+> <span class="line-through text-gray-400">368元+268元</span>
+- 获得 职场达人「入门Dify实操课 」+「入门AI实操课」全部学习服务 ，共计26+个实操项目，多场直播
+- 报名方式：扫码添加课程作者微信，微信红包转账 389元/人
 
 <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">职场达人的入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 <a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
-> 两门课289元= 29个实操项目+多场直播，祝你成为更懂操作使用AI的职场达人
+> 两门课389元= 26+个实操项目+多场直播，祝你成为更懂操作使用AI的职场达人
 > 
-> 现在报名，立马可以获得「入门AI实操课」前11个项目教程，学习起来
 </div>
 
 ### 报名咨询
