@@ -67,14 +67,14 @@ pageTitle: 'AI实操课入门'
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
-> <span class="line-through text-gray-400">原价428元 （第1季129元+第2季299元）</span>
-- 报名立刻获得 「职场达人入门AI实操课」全部学习服务 
+> <span class="line-through text-gray-400">原价428元</span>
+- 报名立刻获得 「入门AI实操课」全部15个教程 
 - 微信红包转账 268元/人   
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 289元/人（推荐）</bold></p>
-> <span class="line-through text-gray-400">536元=268元+268元</span>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 389元/人（推荐）</bold></p>
+> <span class="line-through text-gray-400">268元+368元</span>
 - 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
-- 微信红包转账 289元/人
+- 微信红包转账 389元/人
 
 **职场达人入门系列课程：**
 
@@ -82,7 +82,7 @@ pageTitle: 'AI实操课入门'
 
 <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
-> 两门课共计289元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
+> 两门课共计389元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
 
 </div>
 
@@ -120,7 +120,7 @@ pageTitle: 'AI实操课入门'
 | **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 |
 | **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 |
 | **已完成** | 有回放 | 搭建，在个人电脑安装Dify社区版实操，并绑定模型和第三方服务  @六月 研发效能教练 |
-| 待开始 | 视频直播 | <a href="https://ui1aq1cogim.feishu.cn/docx/HXZOd6Axmo0bTrx8R9Gc2uNunAc" target="_blank" rel="noopener noreferrer">【直播预告】带你1.5小时系统入门RAG @大圣</a> |
+| **已完成** | 有回放 | 带你1.5小时系统入门RAG @大圣 |
 | 待开始 | 视频直播 | 企业场景RAG落地实践  @王吕 AI架构师|
 
 > 本学习活动建议IT环境
@@ -206,7 +206,7 @@ pageTitle: 'AI实操课入门'
 > - 通过安装anythingLLM实现个人知识库
 > <img src="/course/16.png" alt="" class="w-3/5" />
 > 试看
-> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【短期试看教程5】搭建自己的第5个AI项目：打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG</a>    密码：2&8p1719
+> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【短期试看教程5】搭建自己的第5个AI项目：打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG</a>   
 
 #### 项目6：打造拥有AI能力的飞书应用，把FastGPT创建的bot接入飞书机器人
 > 有些场景下，我们不方便使用扣子，但同样也可以让飞书应用具有AI能力，本项目将基于飞书开放平台和FastGPT，搭建具有AI能力的飞书应用。
