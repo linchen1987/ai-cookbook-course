@@ -5,18 +5,18 @@ pageTitle: 'AI实操课入门'
 ---
 
 <div class="mb-6">
-  <small>11 月 08 日修改</small>
+  <small>2024年 11 月 26 日修改</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 <p class="font-bold mt-2 mb-4">入门AI实操课</p>
 
-15个精心制作的项目实操教程，5场直播分享
+15个精心制作的项目实操教程，多场直播分享
 
-带你探索前沿AI项目，提升动手能力，通过为自己定制AI工具、bot的同时，加深对AI工作原理的理解
+带你探索前沿AI项目，提升动手能力，在学习如何为自己定制AI工具的同时，也加深对大模型工作原理的理解
 
-> 我们的职场达人AI系列课程
+> 我们的入门AI系列课程
 >
 >
 > <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
@@ -60,7 +60,7 @@ pageTitle: 'AI实操课入门'
 
 ### 学习服务
 - **15个实操项目教程（长期有效）**
-- **5场直播的回看：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回看长期有效）
+- **直播&回看：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回看长期有效）
 
 
 
@@ -75,16 +75,16 @@ pageTitle: 'AI实操课入门'
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 389元/人（推荐）</bold></p>
 > <span class="line-through text-gray-400">268元+368元</span>
-- 获得「职场达人入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
+- 获得「入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计29个实操项目，10场直播
 - 微信红包转账 389元/人
 
-**职场达人入门系列课程：**
+**入门系列课程：**
 
 <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
 
 <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 
-> 两门课共计389元= 29个实操项目，10场直播，祝你真正进阶成为更懂操作使用AI的职场达人
+> 两门课共计389元= 29个实操项目，多场直播，祝你真正进阶成为更懂操作使用AI的职场从业者
 
 </div>
 
@@ -135,11 +135,9 @@ pageTitle: 'AI实操课入门'
 了解我们的教程，欢迎通过我们提供的试看内容，了解我们的学习内容。
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
-<p>点击试看内容，了解我们的教程</p>
+<p>点击试看内容，了解我们的教程风格</p>
 
 > <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【教程5试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案</a>
-> 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/GgbIdzUZLoXflHxe0n8cLmAbnuc" target="_blank" rel="noopener noreferrer">【教程试看】在电脑本地用Ollama应用运行llama3.1小模型</a>
 
 </div>
 
