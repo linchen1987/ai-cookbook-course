@@ -56,7 +56,7 @@ pageTitle: '入门Dify实操课程'
 
 **近期免费公开课预告**
 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课（直播公开课版）</a>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">入门Dify实操课（直播公开课版）</a>
 
 </div>
 
