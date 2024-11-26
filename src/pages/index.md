@@ -19,9 +19,9 @@ pageTitle: 'AI实操课入门'
 > 我们的职场达人AI系列课程
 >
 >
-> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
+> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
 >
-> <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
+> <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
 
 </div>
 
@@ -56,9 +56,9 @@ pageTitle: 'AI实操课入门'
 
 ![](/course/03.png)
 
-### 2个学习服务
+### 学习服务
 - **15个实操项目教程（长期有效）**
-- **5场直播：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回放长期有效）
+- **5场直播的回看：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回看长期有效）
 
 
 
