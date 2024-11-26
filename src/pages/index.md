@@ -33,7 +33,7 @@ pageTitle: '入门Dify实操课程'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-**入门Dify实操课：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务**
+**入门Dify实操课（基础篇）：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务**
 
 11+位讲师、14个实操教程、7+场直播
 
