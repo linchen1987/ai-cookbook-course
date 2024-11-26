@@ -33,8 +33,10 @@ pageTitle: 'AI实操课入门'
 </div>
 
 ### 主要解决什么
-- 助力职场人提升动手能力，更好探索使用前沿AI模型工具（教程：HOW-TO）
-- 助力职场人了解AI模型工具的工作原理获得实操经验（直播：KNOW-HOW）
+- 提升动手能力，掌握为自己定制AI服务必备的基础IT搭建技能（教程：HOW-TO）
+- 建立起AI大模型关键应用方向的知识结构，为自己更专业使用大模型打下基础（教程：HOW-TO）
+- 收获多个实用的对自己长期有帮助的个性化AI工具（教程：HOW-TO）
+- 听业内专家分享AI模型工具的企业落地和个人使用经验（直播：KNOW-HOW）
 
 ### 适合谁
 - 有定制化使用AI工具需求的人士
@@ -313,7 +315,7 @@ pageTitle: 'AI实操课入门'
 
 **@Ning**
 
-产品经理
+AI产品经理
 
 前CSDN、极客邦业务产品总监。
 
@@ -334,10 +336,10 @@ pageTitle: 'AI实操课入门'
   <img class="ml-4" src="/course/09.png" style="width: 30%;" />
 </div>
 
-> 我们的职场达人AI系列课程，欢迎了解
+> 我们的入门AI系列课程，欢迎了解
 > 
-> <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+> <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">职场达人入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
 <div class="my-64" />
