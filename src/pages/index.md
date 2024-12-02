@@ -1,5 +1,5 @@
 ---
-title: '入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解'
+title: '入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: 'AI实操课入门'
 ---
@@ -19,7 +19,7 @@ pageTitle: 'AI实操课入门'
 > 我们的入门AI系列课程
 >
 >
-> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
+> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理</a>
 >
 > <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
 
@@ -307,6 +307,6 @@ AI产品经理
 > 
 > <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理</a>
 
 <div class="my-64" />
