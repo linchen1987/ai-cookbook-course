@@ -1,5 +1,5 @@
 ---
-title: '入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理'
+title: '入门AI实操课：带你探索前沿开源AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: 'AI实操课入门'
 ---
@@ -10,9 +10,9 @@ pageTitle: 'AI实操课入门'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">入门AI实操课，12个精心制作的项目实操教程，多场直播分享</p>
+<p class="font-bold mt-2 mb-4">入门AI实操课，12个精心制作的开源AI项目搭建教程，多场直播分享</p>
 
-带你探索前沿AI项目，提升动手能力，在学习如何为自己定制AI工具的同时，也加深对大模型工作原理的理解
+带你探索前沿开源AI项目，提升动手能力，在为自己定制AI工具的同时，加深对大模型工作原理的理解
 
 > 我们的入门AI系列课程
 >
