@@ -255,7 +255,7 @@ RAM >= 4 GiB
 
 如果身边有朋友对我们的课程感兴趣，欢迎将下面的链接分享给他
 
-> 入门AI，掌握职场专业技能，欢迎了解
+> 掌握工作必备AI技能，入门AI，欢迎了解
 >
 > <a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
