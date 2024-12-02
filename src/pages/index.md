@@ -10,14 +10,11 @@ pageTitle: 'AI实操课入门'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">入门AI实操课</p>
-
-12个精心制作的项目实操教程，多场直播分享
+<p class="font-bold mt-2 mb-4">入门AI实操课，12个精心制作的项目实操教程，多场直播分享</p>
 
 带你探索前沿AI项目，提升动手能力，在学习如何为自己定制AI工具的同时，也加深对大模型工作原理的理解
 
 > 我们的入门AI系列课程
->
 >
 > <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理</a>
 >
@@ -48,7 +45,7 @@ pageTitle: 'AI实操课入门'
 - 关注AI，从事教培的教师和科研人员
 
 ### 学习收获
-- 15个项目作品集，展示自己对大模型理解和操作能力
+- 12个项目作品集，展示自己对大模型理解和操作能力
 - 提升搭建和使用AI服务的能力，掌握AI时代必备基础技能
 - 打造对自己长期有帮助的AI工具箱
 - 提升职场竞争力
