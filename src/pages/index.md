@@ -39,9 +39,9 @@ pageTitle: '入门Dify实操课程'
 
 **课程分3部分**
 
-- **7个Dify功能使用教程（howto）**
+- **7个进阶使用Dify的实践教程（howto）**
 
-  从Dify部署到，工作流搭建，Dify 的 RAG 能力简单优化，点亮你的Dify技能树
+  从Dify部署到，相对复杂工作流搭建，Dify RAG 能力优化，点亮你的Dify技能树
 
 - **7个Dify动手实操项目（howto）**
 
