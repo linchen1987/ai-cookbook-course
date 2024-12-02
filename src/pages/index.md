@@ -5,7 +5,7 @@ pageTitle: 'AI实操课入门'
 ---
 
 <div class="mb-6">
-  <small>2024年 11 月 26 日修改</small>
+  <small>2024年 12 月 02 日修改</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
