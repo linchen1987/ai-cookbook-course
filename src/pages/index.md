@@ -124,18 +124,18 @@ pageTitle: 'AI实操课入门'
 | 暂定12月 | 视频直播 | 企业场景RAG落地实践  @王吕 AI架构师|
 
 > 本学习活动建议IT环境
-> - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、coze.com 、dify类似服务
-> - **本地电脑：** 第5个、第8个两个项目有硬件要求，其它项目可只考虑网络环境。
-> 第5个、第8个两个项目涉及通过ollama在本地电脑运行模型。比如：Qwen2-7b、 llama3-8b模型，参考配置： Mac M1或M2芯片  16G内存，> 20G以上硬盘空间 。 PC 3060以上显卡+8G以上显存+16G内存，20G以上硬盘空间。目前教程是在Mac M2 16G内存的电脑上进行流畅操作演示。其它项目无特别硬件配置要求。
+> - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、docker相关服务
+> - **本地电脑：** 第2个、第5个两个项目有硬件要求，其它项目可只考虑网络环境。
+> 第2个、第5个两个项目涉及通过ollama在本地电脑运行自己下载、微调的模型。比如：Qwen2-7b、 llama3-8b模型，参考配置： Mac M1或M2芯片  16G内存，> 20G以上硬盘空间 。 PC 3060以上显卡+8G以上显存+16G内存，20G以上硬盘空间。目前教程是在Mac M2 16G内存的电脑上进行流畅操作演示。其它项目无特别硬件配置要求。如电脑硬件无法达到要求，可以尝试下载更小参数的模型使用。
 
-### 我们有手就会的实操教程风格试看
+### 我们手把手的实操教程风格试看
 
 了解我们的教程，欢迎通过我们提供的试看内容，了解我们的学习内容。
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 <p>点击试看内容，了解我们的教程风格</p>
 
-> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【教程5试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案</a>
+> <a href="https://ui1aq1cogim.feishu.cn/docx/Cpe9dYV33o1Nq1xTJcNc5P40nIe" target="_blank" rel="noopener noreferrer">【试看】打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现个人RAG方案</a>
 
 </div>
 
