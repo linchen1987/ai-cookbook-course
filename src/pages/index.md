@@ -300,7 +300,7 @@ AI产品经理
   <img class="ml-4" src="/course/09.png" style="width: 30%;" />
 </div>
 
-> 我们的入门AI系列课程，欢迎了解
+> 如果身边有朋友对我们的课程感兴趣，欢迎将我们的课程分享给他
 > 
 > <a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
