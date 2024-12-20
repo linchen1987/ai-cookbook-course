@@ -54,7 +54,7 @@ pageTitle: '入门Dify实操课程'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-**课程免费直播公开课版**
+**课程直播公开课（4场已结束）**
 
 > <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">入门Dify实操课（直播公开课）</a>
 
