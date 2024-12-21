@@ -5,26 +5,6 @@ layout: '~/layouts/CourseLayout.astro'
 pageTitle: '入门Dify实操课程'
 ---
 
-<script>
- window.difyChatbotConfig = {
-  token: 'yeGdsNpHlhOIfIZ9',
-  baseUrl: 'https://dify.universefs.com'
- }
-</script>
-<script
- src="https://dify.universefs.com/embed.min.js"
- id="yeGdsNpHlhOIfIZ9"
- defer>
-</script>
-<style>
-  #dify-chatbot-bubble-button {
-    background-color: #1C64F2 !important;
-  }
-  #dify-chatbot-bubble-window {
-    width: 24rem !important;
-    height: 40rem !important;
-  }
-</style>
 
 
 <div class="mb-6">
