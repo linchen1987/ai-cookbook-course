@@ -10,19 +10,13 @@ pageTitle: 'AI实操课入门'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">入门AI实操课，12个精心制作的开源AI项目搭建教程，多场直播分享</p>
+<p class="font-bold mt-2 mb-4">12个精心制作的手把手AI工具搭建教程，多场直播回看</p>
 
 带你探索前沿开源AI项目，提升动手能力，在为自己定制AI工具的同时，加深对大模型工作原理的理解
 
-> 我们的入门AI系列课程
->
-> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理</a>
->
-> <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
-
 </div>
 
-### 课程直播嘉宾&教程作者
+### 直播嘉宾&教程作者
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
   <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
@@ -57,7 +51,7 @@ pageTitle: 'AI实操课入门'
 
 ### 学习服务
 - **12个实操项目教程（长期有效）**
-- **直播&回看：** 每场约1.5小时，助力大家更了解AI模型工具的工作原理（回看长期有效）
+- **6场直播回看（长期有效）** 
 
 
 
