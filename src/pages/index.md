@@ -1,5 +1,5 @@
 ---
-title: '入门AI实操课：带你探索前沿开源AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理'
+title: '入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: 'AI实操课入门'
 ---
@@ -16,7 +16,7 @@ pageTitle: 'AI实操课入门'
 
 > 我们的入门AI系列课程
 >
-> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，通过搭建AI服务，提升动手能力理解AI基本工作原理</a>
+> <a href="https://ai.uxone.org/" target="_blank" rel="noopener noreferrer">入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理</a>
 >
 > <a href="https://dify.uxone.org/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你从0-1系统上手Dify完成各类典型任务</a>
 
@@ -95,12 +95,12 @@ pageTitle: 'AI实操课入门'
 
 | | 自学教程 | | |
 | --- | --- | --- | --- |
-| 1 | 已上线 | 解决国外模型使用，为自己打造超强AI对话工具，直连多种国内外模型 | 模型对话工具搭建 |
-| 2 | 已上线 | 打造本地个人知识库，让文档不落灰，通过电脑本地运行模型并实现RAG | 操作本地模型+RAG |
+| 1 | 已上线 | 解决国外模型使用，用lobechat为自己打造超强AI对话工具，直连多种国内外模型 | 模型对话工具搭建 |
+| 2 | 已上线 | 打造本地个人知识库,分别用AnythingLLM\OpenWebUI实现本地个人RAG知识库 | 操作本地模型+RAG |
 | 3 | 已上线 | 打造拥有AI能力的飞书应用，把FastGPT创建的bot接入飞书机器人 | 搭建agent |
-| 4 | 已上线 | 打造个人AI搜索工具，随心高效搜索网上优质内容 | 模型对话工具搭建 |
+| 4 | 已上线 | 用perplexica复刻Perplexity打造个人AI搜索工具，高效搜索网上优质内容 | 模型对话工具搭建 |
 | 5 | 已上线 | 上手微调，把数据集喂进llama3.1-8b，并在电脑本地使用微调后的模型 | 线上微调模型+操作本地模型 |
-| 6 | 已上线 | 稳定使用claude模型，利用google云，把claude接入自己的AI对话工具 | 模型对话工具搭建 |
+| 6 | 已上线 | 尝试Google AI平台Vertex，把claude接入自己的AI对话工具 | 模型对话工具搭建 |
 | 7 | 已上线 | 打造自己的"干货"信息流，抓取订阅号内容，变为RSS订阅并用AI再加工 | 通用搭建技能 |
 | 8 | 已上线 | 免费打造个人blog，迈出AI时代打造IP一小步，并用Cloudflare管理域名 | 通用搭建技能 |
 | 9 | 已上线 | 解决需要"企业邮箱"注册服务困扰，打造个人域名后缀的"企业邮箱" | 通用搭建技能 |
@@ -114,11 +114,11 @@ pageTitle: 'AI实操课入门'
 | | | |
 | - | - | - |
 | **已完成** | 有回放 | 读《How to Build Your Career in AI》有感 @ ning AI 产品经理|
-| **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 |
-| **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 |
+| **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 程序员、AI超级个体打造者|
+| **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 程序员、AI创业者|
 | **已完成** | 有回放 | 搭建，在个人电脑安装Dify社区版实操，并绑定模型和第三方服务  @六月 研发效能教练 |
 | **已完成** | 有回放 | 带你1.5小时系统入门RAG @大圣 |
-| 暂定12月 | 视频直播 | 企业场景RAG落地实践  @王吕 AI架构师|
+| **已完成** | 有回放 | 上手AI编程实践与思考，完整演示用AI开发基于excle内容的问答应用  @王吕 AI架构师|
 
 > 本学习活动建议IT环境
 > - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、docker相关服务
@@ -308,7 +308,7 @@ AI产品经理
 >
 > <a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理</a>
 
 
 <div class="my-64" />
