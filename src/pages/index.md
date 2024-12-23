@@ -32,13 +32,6 @@ pageTitle: '入门Dify实操课程'
   结合工作场景的RAG落地、AI场景落地数据分析、内容生成等实践分享
 </div>
 
-<div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
-
-**课程直播公开课（4场已结束）**
-
-> <a href="https://ui1aq1cogim.feishu.cn/docx/KAZLd1NiGocmOSxWr3bcUOssnke" target="_blank" rel="noopener noreferrer">入门Dify实操课（直播公开课）</a>
-
-</div>
 
 ### 入门Dify实操课部分直播嘉宾和教程作者
 
