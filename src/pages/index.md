@@ -37,7 +37,7 @@ pageTitle: '入门Dify实操课程'
 
 4位 产品经理、3位架构师、2位研发工程师、2位咨询与研发效能教练带来他们的AI实操和AI转型经验
 
-> 排名不分先后，分发型
+> 排名不分先后 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
   <img src="/course/01.png" alt="Course image 1" class="w-full h-auto" />
