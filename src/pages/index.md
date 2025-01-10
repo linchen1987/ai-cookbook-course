@@ -21,7 +21,7 @@ pageTitle: '入门Dify实操课程'
 
 - **7个Dify实操教程，从入门到进阶带掌握如何使用Dify（howto）**
 
-  从Dify部署到，相对复杂工作流搭建，Dify RAG 能力优化，点亮你的Dify技能树
+  从Dify部署,到相对复杂工作流搭建，以及Dify RAG 能力优化，点亮你的Dify技能树
 
 - **7个Dify案例项目，学完也能搭出来（howto）**
 
