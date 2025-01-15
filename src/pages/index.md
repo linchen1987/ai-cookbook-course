@@ -8,7 +8,7 @@ pageTitle: '入门Dify实操课程'
 
 
 <div class="mb-6">
-  <small>12 月 20 日更新</small>
+  <small>2025 年 01 月 10 日更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
