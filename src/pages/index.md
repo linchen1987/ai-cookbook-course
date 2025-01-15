@@ -39,7 +39,8 @@ pageTitle: 'AI产品经理实战课'
 
 ### 学习收获
 - 12个项目作品集，展示自己对大模型理解和操作能力
-- 掌握AI时代，个性化使用AI工具必备基础IT技能。通过12个项目手把手实操，了解Github、huggingface等社区的项目操作使用方法，学习通过Vercel、colab、Docker、Cloudflare、Python环境等方式，安装使用服务的基本操作方式
+- 掌握AI时代，个性化使用AI工具必备基础IT技能。分别通过12个项目手把手实操，了解Github、huggingface等社区的项目操作使用方法，学习通过Vercel、colab、Docker、Cloudflare、Python环境等方式安装使用服务的基本操作方式
+- 通过12个开源项目，探索典型AI应用落地场景背后的技术，包括但不限于：AI对话工具，个人知识库RAG，AI搜索，模型微调，agent搭建工具Dify
 - 打造对自己长期有帮助的AI工具箱
 - 提升职场竞争力
 
