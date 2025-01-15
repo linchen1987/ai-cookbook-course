@@ -1,5 +1,5 @@
 ---
-title: 'AI产品经理实战课：手把手搭建12个热门AI开源工具，提升IT动手能力，理解AI工作原理'
+title: 'AI产品经理实战课：手把手搭建12个热门AI开源项目，提升IT动手能力，理解AI工作原理'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: 'AI产品经理实战课'
 ---
