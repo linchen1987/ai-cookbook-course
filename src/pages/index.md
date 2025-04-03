@@ -146,7 +146,7 @@ Dify有非常多使用场景优势，特别适合需要完成专业任务的职�
 
 <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
 
-<a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+<a href="/" target="_blank" rel="noopener noreferrer">入门Agent实操课（Dify版）：助你系统上手Dify完成各类典型任务</a>
 
 > 两门课389元= 26+个实操项目教程+多场直播，祝你成为更懂操作使用AI的职场从业者
 > 
