@@ -1,5 +1,5 @@
 ---
-title: '入门Dify实操课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务'
+title: '入门Agent实操课（Dify版）：从0-1助你系统上手Dify，完成各类典型任务'
 description: '入门Dify课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: '入门Dify实操课程'
@@ -8,16 +8,16 @@ pageTitle: '入门Dify实操课程'
 
 
 <div class="mb-6">
-  <small>2025 年 02 月 10 日更新</small>
+  <small>2025 年 04 月 02 日更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 **入门Dify实操课：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务**
 
-9+位讲师、14个实操教程、7+场直播，助力非研发岗位从业者，系统掌握RAG、工作流搭建的工作原理，可以使用Dify搭建满足个人工作场景所需的AI应用
+14个实操教程、助力非研发岗位从业者，可以使用Dify搭建满足个人工作场景所需的AI应用，同时系统掌握 Agent 搭建涉及的知识技能，包括不限于RAG、工作流搭建的原理等。
 
-**课程分3部分**
+**课程分2部分**
 
 - **7个Dify实操教程，从入门到进阶带掌握如何使用Dify（howto）**
 
@@ -27,20 +27,15 @@ pageTitle: '入门Dify实操课程'
 
   从RAG知识库问答、文档校对，到网页、文档数据分析实践，以及个性文稿撰写，批量文档翻译...
 
-- **7场 Dify、AI大模型使用经验分享直播（knowhow）**
-
-  从 RAG 知识库、客服助手、AI 编程，到 AI 产品创新以及在企业场景落地等
 </div>
 
 
-### 入门Dify实操课部分直播嘉宾和教程作者
+### 教程作者
 
-3位 产品经理、2位架构师、2位研发工程师、2位咨询与研发效能教练带来他们的AI实操和AI转型经验
 
 > 排名不分先后 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-  <img src="/course/01.png" alt="Course image 1" class="w-full h-auto" />
   <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
 </div>
 
@@ -124,9 +119,7 @@ Dify有非常多使用场景优势，特别适合需要完成专业任务的职�
 
 
 
-### 直播课表
-
-> 伴随学习周期，约每月1期，由社区专家分享Dify使用、AI场景落地的思考心得
+### 直播回看
 
 | 学习形式 | | 听案例、经验knowhow | 负责人
 | --- | --- | --- | --- |
@@ -134,9 +127,7 @@ Dify有非常多使用场景优势，特别适合需要完成专业任务的职�
 | 已直播 | 2 | 基于开源项目Dify on WeChat，把Dify接入微信生态实践  | 方圆@程序员、开源爱好者 |
 | 已直播 | 3 | 带你从0-1系统了解RAG建立知识结构 | 大圣@程序员、AI超级个体打造者 |
 | 已直播 | 4 | 上手AI编程实践与思考，完整演示用AI编程开发基于excle内容的问答应用  | 王吕@AI架构师 |
-| 直播待定 | 5 | AI多模态，把Dify作为LLMops平台，探索AI多模态方向，项目实践 | Eric@AI产品经理 |
-| 直播待定 | 6 | AI应用落地的总结与思考，寻找高价值场景 | 徐司宇@AI产品经理 |
-| 直播待定 | 7 | 基于开源项目Dify on WeChat，把Dify接入微信生态实践(填坑版) | 方圆@程序员、开源爱好者 |
+
 
 
 ### 报名购买
@@ -145,12 +136,12 @@ Dify有非常多使用场景优势，特别适合需要完成专业任务的职�
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：368元/人 </bold></p>
 > <span class="line-through text-gray-400">  原价498元/人</span>
-- 获得  「0-1入门Dify实操课 」全部学习服务（自学教程+直播）
+- 获得  「入门Agent实操课（Dify版）」学习服务 
 - 报名方式：扫码添加课程作者微信，微信红包转账 368元/人 
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买（推荐）： 389元/人 </bold></p>
 > <span class="line-through text-gray-400">368元+268元</span>
-- 获得 「入门Dify实操课 」+「入门AI实操课」全部学习服务 ，26+个教程，多场直播
+- 获得 「入门Agent实操课（Dify版）」+「入门AI实操课」全部学习服务 ，26+个教程
 - 报名方式：扫码添加课程作者微信，微信红包转账 389元/人
 
 <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工具工作原理的理解</a>
@@ -168,63 +159,7 @@ Dify有非常多使用场景优势，特别适合需要完成专业任务的职�
   <img src="/course/08.jpeg" style="width: 30%;" />
 </div>
 
----
 
-### 关于本课程的电脑配置说明
-
-
-1 使用Dify官网的官方云服务，学习本课程
-<br>
-对本地电脑没有特别的要求，能正常办公的电脑，能上网就行
-
-<div class="mt-4" />
-
-2 （常用）如果采用电脑本地部署Dify的学习方法（例如：教程1）+使用线上大模型的方案
-<br>
-Dify官方给出的硬件参考，最低安装要求
-<br>
-https://docs.dify.ai/zh-hans/getting-started/install-self-hosted/docker-compose
-<br>
-Docker Compose 部署
-<br>
-CPU >= 2 Core
-<br>
-RAM >= 4 GiB
-
-<div class="mt-4" />
-
-3 （常用）如果想采用云端方案（例如：教程2）+使用线上大模型的方案
-<br>
-把Dify部署在自己购买的服务器，这个对本地电脑没有要求，能上网就行
-<br>
-服务器的硬件要求（本课程主要面向个人办公使用场景，不考虑企业使用）
-<br>
-选购服务器的硬件要求与在本地部署一样
-<br>
-CPU >= 2 Core
-<br>
-RAM >= 4 GiB
-
-<div class="mt-4" />
-
-4 如果采用电脑本地部署Dify的学习方法（例如：教程1）+ 要使用本地大模型的模式（ollama+7B以上模型）
-<br>
-这个模式对电脑本地有硬件要求（无特殊原因，无需这样使用Dify）
-<br>
-Dify部分硬件配置（一样）
-<br>
-Docker Compose 部署
-<br>
-CPU >= 2 Core
-<br>
-RAM >= 4 GiB
-<br>
-电脑本地同时还要跑模型通常采用 ollama+ 至少7b以上模型
-<br>
-建议配置：
-<br>
-比如：Qwen2-7b、 llama3-8b模型，参考配置： Mac M1或M2芯片  16G内存，20G以上硬盘空间 。 PC 3060以上显卡+8G以上
-显存+16G内存，20G以上硬盘空间。目前大部分教程在Mac M2 16G内存的电脑上进行流畅操作演示。
 
 ---
 
@@ -232,7 +167,7 @@ RAM >= 4 GiB
 
 > 掌握工作必备AI技能，入门AI，欢迎了解
 >
-> <a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
+> <a href="/" target="_blank" rel="noopener noreferrer">入门Agent实操课（Dify版）：从0-1助你系统上手Dify，完成各类典型任务</a>
 > 
 > <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理</a>
 
