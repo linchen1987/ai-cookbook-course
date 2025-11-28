@@ -1,5 +1,5 @@
 ---
-title: '入门Agent实操课（Dify版）：从0-1助你系统上手Dify，完成各类典型任务'
+title: 'Dify实操课：手把手搞定智能体搭建'
 description: '入门Dify课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
 pageTitle: '入门Dify实操课程'
@@ -13,9 +13,8 @@ pageTitle: '入门Dify实操课程'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-**手把手助你从0-1搞懂Dify智能体搭建** 
+**助你用好Dify，掌握智能体搭建** 
 
-- 助你用好Dify，掌握智能体搭建技能。
 - 99元 = 28个手把手实操教程 + 1个交流群 + 不定期课程直播</br>
 
 **课程分4部分**
