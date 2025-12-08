@@ -8,7 +8,7 @@ pageTitle: '入门Dify实操课程'
 
 
 <div class="mb-6">
-  <small>2025 年 11 月 更新</small>
+  <small>2025 年 12 月 更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
@@ -17,7 +17,7 @@ pageTitle: '入门Dify实操课程'
 
 - 99元 = 手把手实操教程 + 交流群 + 直播</br>
 
-**课程分4部分**
+**实操教程内容包含4部分**
 
 - **知识：理解智能体工作原理，建立知识储备（3节）**
 - **知识：了解Dify基本功能，工作流、知识库、模型、工具等（4节）**
@@ -48,8 +48,6 @@ pageTitle: '入门Dify实操课程'
 
 
 ### 教程课表  
-> 不仅学习Dify使用，还注重理解AI工作原理，学习解决工作场景问题的最佳实践
->
 > 覆盖全面、注重获得、循序渐进、容易上手、典型场景
 
 
