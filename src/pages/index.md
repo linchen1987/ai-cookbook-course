@@ -96,7 +96,7 @@ pageTitle: '入门Dify实操课程'
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded"> 折扣价 99元/人 </bold></p>
 > <span class="line-through text-gray-400">  原价 199元/人  </span> 
 - 报名方式：扫码添加课程作者微信，微信红包转账 99元 /人
-- 学习地址：本课程专属飞书知识库 或 本课程与 <a href="https://lm.msup.com.cn/medal/home?id=18" target="_blank" class="text-blue-600 hover:text-blue-800 underline"> msup 合作线上学习平台 </a>  
+- 学习地址：本课程飞书知识库 或  <a href="https://lm.msup.com.cn/medal/home?id=18" target="_blank" class="text-blue-600 hover:text-blue-800 underline"> msup 线上学习平台 </a>  
 
 99元 = 手把手教程 + 交流群 + 直播 ，祝你成为更懂智能体搭建的从业者
 > 
