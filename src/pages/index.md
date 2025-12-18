@@ -2,7 +2,7 @@
 title: 'Dify实操课：手把手搞定智能体搭建'
 description: '入门Dify课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: '入门Dify实操课程'
+pageTitle: 'Dify实操课：手把手搞定智能体搭建'
 ---
 
 
@@ -24,7 +24,7 @@ pageTitle: '入门Dify实操课程'
 - **实操：Dify典型节点用法实践（10节）**
 - **实操：工作流搭建实操，真正上手Dify（7节）**
 
-
+**报名后，即可通过飞书知识库或线上平台msup开始学习 **
 </div>
 
 ### 本课程适合谁
