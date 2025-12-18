@@ -1,8 +1,8 @@
 ---
-title: 'Dify零基础实战营：手把手搞定智能体搭建'
-description: 'Dify零基础实战营：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
+title: 'Dify实战营：手把手搭建各类AI工作助手'
+description: 'Dify实战营：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'Dify零基础实战营：手把手搞定智能体搭建'
+pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 ---
 
 
@@ -13,16 +13,16 @@ pageTitle: 'Dify零基础实战营：手把手搞定智能体搭建'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-**助你搞定Dify，掌握智能体搭建** 
+**助你搞定Dify，掌握智能体搭建，从“用AI”到“定制AI”** 
 
 - 99元 = 手把手实操教程 + 课程答疑群 + 直播</br>
 
 **实操教程内容包含4部分**
 
-- **知识：理解智能体工作原理，建立知识储备（3节）**
-- **知识：了解Dify基本功能，工作流、知识库、模型、工具等（4节）**
-- **实操：Dify典型节点用法实践（10节）**
-- **实操：工作流搭建实操，真正上手Dify（7节）**
+- **理解智能体工作原理，建立知识储备（3节）**
+- **了解Dify基本功能，工作流、知识库、模型、工具等（4节）**
+- **Dify典型节点用法实践（10节）**
+- **工作流搭建实操，真正上手Dify（7节）**
 
 报名后，可通过飞书知识库或课程合作平台 msup 开始学习
 </div>
