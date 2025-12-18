@@ -1,8 +1,8 @@
 ---
-title: 'Dify实操课：手把手搞定智能体搭建'
-description: '入门Dify课程：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
+title: 'Dify零基础实战营：手把手搞定智能体搭建'
+description: 'Dify零基础实战营：从0-1开启你的Dify之旅，助你系统上手Dify，完成各类典型任务 ｜ Dify AI智能体搭建、Dify工作流'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'Dify实操课：手把手搞定智能体搭建'
+pageTitle: 'Dify零基础实战营：手把手搞定智能体搭建'
 ---
 
 
