@@ -50,9 +50,9 @@ pageTitle: 'AI产品搭建实战营'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">限时优惠6.3折 268元/人</bold></p>
 > <span class="line-through text-gray-400">原价428元</span>
-- 报名立刻获得 「入门AI实操课」全部12个搭建教程 
+- 报名立刻获得全部12个搭建教程 
 - 268元/人   
 
 </div>
