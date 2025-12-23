@@ -16,11 +16,7 @@ pageTitle: 'AI产品搭建实战营'
 
 </div>
 
-### 直播嘉宾&教程作者
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-  <img src="/course/02.png" alt="Course image 2" class="w-full h-auto" />
-  <img src="/course/01.png" alt="Course image 1" class="w-full h-auto" />
 </div>
 
 ### 主要解决什么
