@@ -1,7 +1,7 @@
 ---
-title: 'AI产品搭建实战营：手把手搭建10个热门开源项目，提升动手能力，理解工作原理'
+title: 'AI超级个体产品搭建实战营：手把手搭建10个热门项目，提升动手能力，理解工作原理'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'AI产品搭建实战营'
+pageTitle: 'AI超级个体产品搭建实战营'
 ---
 
 <div class="mb-6">
@@ -10,9 +10,9 @@ pageTitle: 'AI产品搭建实战营'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">10个精心制作的手把手AI工具搭建项目</p>
+<p class="font-bold mt-2 mb-4">精心制作的手把手教程，一起搭建超级个人、超级员工必备的10大工具</p>
 
-带你探索前沿开源AI项目，提升IT动手能力，在为自己定制AI工具的同时，加深对大模型工作原理的理解
+带你探索前沿项目，提升IT动手能力，在为自己定制AI工具的同时，加深对大模型工作原理的理解
 
 </div>
 
@@ -20,21 +20,23 @@ pageTitle: 'AI产品搭建实战营'
 </div>
 
 ### 主要解决什么
-- 提升动手能力，掌握为自己定制AI服务必备的基础IT搭建技能 
-- 建立起AI大模型关键应用方向的知识结构，为自己更专业使用大模型打下基础 
-- 收获多个实用的对自己长期有帮助的个性化AI工具 
+- 掌握为自己打造超级工具箱的能力
+- 提升动手能力，掌握AI时代必备的IT搭建技能 
+- 了解AI大模型底层知识体系，为自己更专业使用大模型打下基础
+  
 
 ### 适合谁
+- 想成为超级个体，打造自己AI工具箱的人
+- 不满足开箱即用的工具，想进阶定制自己AI工具的从业者
 - 想转型成为AI产品经理的从业者
-- 想提升IT搭建动手能力，个性化使用前沿AI工具的人士
+- 想提升动手能力，个性化使用前沿AI工具的人士
 - 想作AI知识技能储备的人士
 - 想开拓视野，研究前沿模型工具的人士
 - 关注AI，从事教培的教师和科研人员
 
 ### 学习收获
-- 12个AI搭建项目作品集，展示自己对大模型理解和操作能力
-- 掌握AI时代，个性化使用AI工具必备基础IT技能。分别通过12个项目手把手实操，了解Github、huggingface等社区的项目操作使用方法，学习通过Vercel、colab、Docker、Cloudflare、Python环境等方式安装使用服务的基本操作方式
-- 通过12个开源项目，探索典型AI应用落地场景背后的技术，包括但不限于：AI对话工具，个人知识库RAG，AI搜索，模型微调，agent搭建工具Dify
+- 10个项目作品集，展示自己对大模型理解和操作能力
+- 掌握AI时代，个性化使用AI工具必备底层知识技能。了解Github、huggingface等社区的项目操作使用方法，学习通过Vercel、colab、Docker、Cloudflare、Python环境等方式安装使用服务的基本操作方式
 - 打造对自己长期有帮助的AI工具箱
 - 提升职场竞争力
 
@@ -50,10 +52,10 @@ pageTitle: 'AI产品搭建实战营'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">限时优惠6.3折 268元/人</bold></p>
-> <span class="line-through text-gray-400">原价428元</span>
-- 报名立刻获得全部12个搭建教程 
-- 268元/人   
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">限时优惠99元/人</bold></p>
+> <span class="line-through text-gray-400">原价399元</span>
+- 报名获得全部搭建教程 
+- 99元/人   
 
 </div>
 
@@ -208,7 +210,7 @@ AI产品经理
 
 > 
 > 
-> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">AI产品搭建实战营：手把手搭建10个热门AI开源项目，提升动手能力，理解工作原理</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">AI超级个体产品搭建实战营：手把手搭建10个热门项目，提升动手能力，理解工作原理</a>
 
 
 <div class="my-64" />
