@@ -1,16 +1,16 @@
 ---
-title: 'AI产品经理实战课：手把手搭建12个热门AI开源项目，提升IT动手能力，理解AI工作原理'
+title: 'AI产品搭建实战营：手把手搭建12个热门AI开源项目，提升动手能力，理解工作原理'
 layout: '~/layouts/CourseLayout.astro'
-pageTitle: 'AI产品经理实战课'
+pageTitle: 'AI产品搭建实战营'
 ---
 
 <div class="mb-6">
-  <small>2025年 01 月 10 日修改</small>
+  <small>2025年 12 月 </small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-<p class="font-bold mt-2 mb-4">12个精心制作的手把手AI工具搭建教程，多场直播回看</p>
+<p class="font-bold mt-2 mb-4">12个精心制作的手把手AI工具搭建项目</p>
 
 带你探索前沿开源AI项目，提升IT动手能力，在为自己定制AI工具的同时，加深对大模型工作原理的理解
 
@@ -24,21 +24,19 @@ pageTitle: 'AI产品经理实战课'
 </div>
 
 ### 主要解决什么
-- 提升动手能力，掌握为自己定制AI服务必备的基础IT搭建技能（教程：HOW-TO）
-- 建立起AI大模型关键应用方向的知识结构，为自己更专业使用大模型打下基础（教程：HOW-TO）
-- 收获多个实用的对自己长期有帮助的个性化AI工具（教程：HOW-TO）
-- 听业内专家分享AI模型工具的企业落地和个人使用经验（直播：KNOW-HOW）
+- 提升动手能力，掌握为自己定制AI服务必备的基础IT搭建技能 
+- 建立起AI大模型关键应用方向的知识结构，为自己更专业使用大模型打下基础 
+- 收获多个实用的对自己长期有帮助的个性化AI工具 
 
 ### 适合谁
 - 想转型成为AI产品经理的从业者
 - 想提升IT搭建动手能力，个性化使用前沿AI工具的人士
 - 想作AI知识技能储备的人士
 - 想开拓视野，研究前沿模型工具的人士
-- 想要将AI融入业务的中小企业主
 - 关注AI，从事教培的教师和科研人员
 
 ### 学习收获
-- 12个项目作品集，展示自己对大模型理解和操作能力
+- 12个AI搭建项目作品集，展示自己对大模型理解和操作能力
 - 掌握AI时代，个性化使用AI工具必备基础IT技能。分别通过12个项目手把手实操，了解Github、huggingface等社区的项目操作使用方法，学习通过Vercel、colab、Docker、Cloudflare、Python环境等方式安装使用服务的基本操作方式
 - 通过12个开源项目，探索典型AI应用落地场景背后的技术，包括但不限于：AI对话工具，个人知识库RAG，AI搜索，模型微调，agent搭建工具Dify
 - 打造对自己长期有帮助的AI工具箱
@@ -49,9 +47,6 @@ pageTitle: 'AI产品经理实战课'
 
 ![](/course/03.png)
 
-### 学习服务
-- **12个实操项目教程（长期有效）**
-- **6场直播回看（长期有效）** 
 
 
 
@@ -61,21 +56,8 @@ pageTitle: 'AI产品经理实战课'
 
 > <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">单独购买：限时优惠6.3折 268元/人</bold></p>
 > <span class="line-through text-gray-400">原价428元</span>
-- 报名立刻获得 「入门AI实操课」全部12个教程 
-- 微信红包转账 268元/人   
-
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded">组合购买： 限时组合福利 389元/人（推荐）</bold></p>
-> <span class="line-through text-gray-400">268元+368元</span>
-- 获得「入门AI实操课」+「入门Dify实操课 」全部学习服务 ，共计26个实操项目，多场直播
-- 微信红包转账 389元/人
-
-**入门系列课程：**
-
-<a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你探索前沿AI项目，提升动手能力，加深对AI模型工作原理的理解</a>
-
-<a href="https://dify.uxone.org" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
-
-> 两门课共计389元= 26个实操项目，多场直播，祝你真正进阶成为更懂操作使用AI的职场从业者
+- 报名立刻获得 「入门AI实操课」全部12个搭建教程 
+- 268元/人   
 
 </div>
 
@@ -102,17 +84,6 @@ pageTitle: 'AI产品经理实战课'
 | 11 | 已上线 | 在云服务器上部署dify，绑定域名公开访问 | 搭建agent |
 | 12 | 已上线 | 把个人微信变成AI助手，把dify搭建的agent接入个人微信 | 搭建agent |
 
-
-### 直播回放
-
-| | | |
-| - | - | - |
-| **已完成** | 有回放 | 读《How to Build Your Career in AI》有感 @ ning AI 产品经理|
-| **已完成** | 有回放 | 理解Agent，入门Coze搭建agent  @大圣 程序员、AI超级个体打造者|
-| **已完成** | 有回放 | 高效学习基于llama-factory做模型微调 @胡壁 程序员、AI创业者|
-| **已完成** | 有回放 | 搭建，在个人电脑安装Dify社区版实操，并绑定模型和第三方服务  @六月 研发效能教练 |
-| **已完成** | 有回放 | 带你1.5小时系统入门RAG @大圣 程序员、AI超级个体打造者 |
-| **已完成** | 有回放 | 上手AI编程实践与思考，完整演示用AI开发基于excle内容的问答应用  @王吕 AI架构师|
 
 > 本学习活动建议IT环境
 > - **网络环境：** 需可以访问使用  Github、Vercel、Huggingface、google、docker相关服务
@@ -299,10 +270,8 @@ AI产品经理
 如果身边有朋友对我们的课程感兴趣，欢迎将下面的链接分享给他
 
 > 掌握工作必备AI技能，入门AI，欢迎了解
->
-> <a href="/" target="_blank" rel="noopener noreferrer">入门Dify实操课：助你系统上手Dify完成各类典型任务</a>
 > 
-> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">入门AI实操课：带你搭建12个热门AI开源工具，掌握实操技能，理解AI基本工作原理</a>
+> <a href="https://ai.uxone.org" target="_blank" rel="noopener noreferrer">AI产品搭建实战营：手把手搭建12个热门AI开源项目，提升动手能力，理解工作原理</a>
 
 
 <div class="my-64" />
