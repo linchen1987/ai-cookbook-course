@@ -8,14 +8,14 @@ pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 
 
 <div class="mb-6">
-  <small>2025 年 12 月 更新</small>
+  <small>2026 年 03 月 更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 **助你搞定Dify，掌握智能体搭建，从“用AI”到“定制AI”** 
 
-- 99元 = 手把手实操教程 + 课程答疑群 + 直播</br>
+- 399元 = 手把手实操教程</br>
 
 **实操教程内容包含4部分**
 
@@ -24,7 +24,7 @@ pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 - **10个Dify高频节点用法实践（10节）**
 - **7大工作场景AI助手搭建实操（7节）**
 
-报名后，可通过飞书知识库或课程合作平台 msup 开始学习
+报名后，可通过飞书知识库开始学习
 </div>
 
 ### 本课程适合谁
