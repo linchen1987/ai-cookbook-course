@@ -8,14 +8,14 @@ pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 
 
 <div class="mb-6">
-  <small>2026 年 03 月 更新</small>
+  <small>2026 年 06 月 更新</small>
 </div>
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
 **助你搞定Dify，掌握智能体搭建，从“用AI”到“定制AI”** 
 
-- 399元 = 手把手实操教程</br>
+- 99元 = 一次性掌握dify用法</br>
 
 **实操教程内容包含4部分**
 
@@ -96,9 +96,9 @@ pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 
 <div class="bg-orange-50 dark:bg-gray-800 py-4 px-8 mb-5 rounded-lg border-orange-200 dark:border-gray-700 border-2">
 
-> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded"> 限时折扣价 399元/人 </bold></p>
+> <p><bold class="font-bold bg-orange-300 dark:bg-orange-700 p-1 rounded"> 挥泪扣价 99元/人 </bold></p>
 > <span class="line-through text-gray-400">  原价499元/人  </span> 
-- 报名方式：扫码添加课程作者微信，微信转账 399元 /人
+- 报名方式：扫码添加课程作者微信，微信转账 99元 /人
 - 学习地址：本课程飞书知识库 
 
 祝你成为更懂智能体搭建的从业者
@@ -120,7 +120,7 @@ pageTitle: 'Dify实战营：手把手搭建各类AI工作助手'
 
 #### 为什么学习使用Dify？
 
-- 从“用AI”到“造AI”： 掌握智能体搭建技能，已成为职场核心竞争力，掌握Dify意味着你能把自己的业务经验“固定”成一套自动化流程。
+- 掌握Dify意味着你能把自己的业务经验“固定”成一套自动化流程。
 - 无需编码经验，懂业务才是你最大的护城河：只要你会梳理业务流程，就能搭建出深度嵌入工作场景，自动完成各种工作的 AI 助手。
 - 实现“模型自由”不用眼馋好模型用不上：Dify支持国内外几乎所有前沿模型，让你的AI助手可以灵活搭配各种最强模型。
 - 你的资产属于你： 你调试出的所有工作流支持一键导入导出，不受平台限制。
